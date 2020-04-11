@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  {% set navPages = collections.all | eleventyNavigation %}
+  <a class="navbar-brand" routerLink="/">Ruben Schuckit</a>
+  <button
+    aria-controls="navbarNav"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+    class="navbar-toggler"
+    data-target="#navbarNav"
+    data-toggle="collapse"
+    type="button"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      {%- for entry in navPages %}
+        <li class="nav-item {% if entry.url == page.url %}active{% endif %}" data-target=".navbar-collapse.show" data-toggle="collapse">
+          <a class="nav-link" href="{{ entry.url | url }}">{{ entry.title }}
+          <span class="sr-only">(current)</span></a>
+      </li>
+    {%- endfor %}
+  </ul>
+</div>
+</nav>

@@ -1,0 +1,35 @@
+<section class="ml-md-5 p-1 mt-3" style="max-width: 750px">
+	{% for post in postslist | reverse %}
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="border m-2 p-2">
+			<h2>
+				<a href="{{ post.url | url }}">
+					{% if post.data.title %}
+						{{ post.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+			</h2>
+			{% if post.data.summary %}
+				<p>
+					{{ post.data.summary }}
+				</p>
+			{% endif %}
+			<p>
+				<time datetime="{{ post.date | machineDate }}">
+					{{ post.date.toDateString() }}
+				</time>
+			</p>
+			{% if post.data.tags %}
+				<p>
+					{% for tag in post.data.tags %}
+		  			{%- if tag != "post" -%}
+		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+		  			{%- endif -%}
+					{% endfor %}
+				</p>
+			{% endif %}
+		</article>
+	{% endfor %}
+</section>
