@@ -1,0 +1,8 @@
+---
+layout: layouts/base.njk
+section: blog
+permalink: /blog/index.html
+---
+
+{% set postslist = collections.post %}
+{% include "components/postslist.njk" %}
