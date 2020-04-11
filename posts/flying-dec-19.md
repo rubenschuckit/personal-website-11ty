@@ -5,11 +5,12 @@ date: 2019-12-26
 tags:
   - hobbies
 ---
-![skyline](https://i.imgur.com/gGJn3sF.png)
+![skyline](/static/img/posts/chicago_skyline.png)
 
 Chicago is known for its harsh winters. But there was some relenting on Dec 25. A high of 60 and not getting below 55 in the afternoon. Was it windy? Sadly, yes. But it's called the Windy City...
 
 Speaking of weather, Foreflight (the iPad elecronic flight bag app I use when I'm flying) had some humor in their weather report (see red text).
+
 ![foreflight](https://i.imgur.com/224lfRf.png)
 
 My friend Hongda and I have had to cancel many flights on clear days because the wind was just too much. But things lined up on Dec 25, and both of us lacking plans had a great afternoon flying around the Chicago skyline and utlimately getting dinner within it later that evening. 
