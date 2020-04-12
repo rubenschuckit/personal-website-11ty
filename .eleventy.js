@@ -42,7 +42,8 @@ module.exports = function(eleventyConfig) {
 
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("D");
+    // Set to UTC so dates aren't off by one. 
+    return DateTime.fromJSDate(dateObj).setZone('utc').toFormat("D");
   });
 
   // Minify CSS
