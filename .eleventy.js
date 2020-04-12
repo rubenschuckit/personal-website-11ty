@@ -20,6 +20,21 @@ module.exports = function(eleventyConfig) {
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
 
+  eleventyConfig.addCollection("blogPosts", function(collection) {
+    const posts = collection.getFilteredByTag("post");
+    const postsByYear = [];
+    posts.forEach(post => {
+      const currentIndex = postsByYear.length - 1;
+      const year = DateTime.fromJSDate(post.date).year;
+      if (currentIndex === -1 || postsByYear[currentIndex].year !== year) {
+        postsByYear.push({ year, posts: [post] });
+      } else {
+        postsByYear[currentIndex].posts.push(post);
+      }
+    });
+    return postsByYear;
+  });
+
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
@@ -27,7 +42,7 @@ module.exports = function(eleventyConfig) {
 
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machineDate", dateObj => {
-    return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
+    return DateTime.fromJSDate(dateObj).toFormat("D");
   });
 
   // Minify CSS
