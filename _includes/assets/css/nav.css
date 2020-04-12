@@ -1,0 +1,28 @@
+.myNav {
+  background-color: #f8f9fa;
+  padding: 0.5rem 1rem;
+  overflow-x: auto;
+}
+
+.navLink {
+  color: rgba(0, 0, 0, 0.5);
+  padding-right: 0.5rem;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #101011b8;
+}
+
+.brand {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.active {
+    color: black !important; /* important so that hover color is overrided */
+}
