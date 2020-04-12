@@ -1,7 +1,7 @@
 ---
 title: Flying Around Chicago on Christmas 
 summary: What to do with no plans on Christmas in Chicago? Fly!
-date: 2019-12-26
+date: 2019-12-25
 tags:
   - hobbies
 ---
