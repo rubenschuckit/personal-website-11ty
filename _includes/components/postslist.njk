@@ -1,46 +1,13 @@
-{# <section class="ml-md-5 p-1 mt-3" style="max-width: 750px">
-	{% for post in postslist | reverse %}
-		<article{% if post.url == url %} data-current="current item"{% endif %} class="border m-2 p-2">
-			<h2>
-				<a href="{{ post.url | url }}">
-					{% if post.data.title %}
-						{{ post.data.title }}
-					{% else %}
-						Untitled
-					{% endif %}
-				</a>
-			</h2>
-			{% if post.data.summary %}
-				<p>
-					{{ post.data.summary }}
-				</p>
-			{% endif %}
-			<p>
-				<time datetime="{{ post.date | machineDate }}">
-					{{ post.date | machineDate }}
-				</time>
-			</p>
-			{% if post.data.tags %}
-				<p>
-					{% for tag in post.data.tags %}
-						{%- if tag != "post" -%}
-							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-							<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-						{%- endif -%}
-					{% endfor %}
-				</p>
-			{% endif %}
-		</article>
-	{% endfor %}
-</section> #}
-
-{% for post in postslist | reverse %}
-	<div class="m-4 card" style="max-width: 750px">
-		<div class="card-body">
-			<h5 class="card-title">{{ post.data.title }}</h5>
-			<h6 class="card-subtitle mb-3 mt-1 text-muted font-italic">{{ post.date | machineDate }}</h6>
-			<p class="card-text">{{ post.data.summary }}</p>
-			<a href="{{ post.url | url }}" class="btn btn-primary">Read</a>
+{% for yearOfPosts in collections.blogPosts | reverse %}
+	<h1 class="pl-3 pt-1">{{ yearOfPosts.year }}</h1>
+	{% for post in yearOfPosts.posts | reverse %}
+		<div class="m-4 card" style="max-width: 750px">
+			<div class="card-body">
+				<h5 class="card-title">{{ post.data.title }}</h5>
+				<h6 class="card-subtitle mb-3 mt-1 text-muted font-italic">{{ post.date | machineDate }}</h6>
+				<p class="card-text">{{ post.data.summary }}</p>
+				<a href="{{ post.url | url }}" class="btn btn-primary">Read</a>
+			</div>
 		</div>
-	</div>
+	{% endfor %}
 {% endfor %}
