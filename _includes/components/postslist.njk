@@ -1,4 +1,4 @@
-<section class="ml-md-5 p-1 mt-3" style="max-width: 750px">
+{# <section class="ml-md-5 p-1 mt-3" style="max-width: 750px">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="border m-2 p-2">
 			<h2>
@@ -23,13 +23,24 @@
 			{% if post.data.tags %}
 				<p>
 					{% for tag in post.data.tags %}
-		  			{%- if tag != "post" -%}
-		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-		  			{%- endif -%}
+						{%- if tag != "post" -%}
+							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+							<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+						{%- endif -%}
 					{% endfor %}
 				</p>
 			{% endif %}
 		</article>
 	{% endfor %}
-</section>
+</section> #}
+
+{% for post in postslist | reverse %}
+	<div class="m-4 card" style="max-width: 750px">
+		<div class="card-body">
+			<h5 class="card-title">{{ post.data.title }}</h5>
+			<h6 class="card-subtitle mb-3 mt-1 text-muted font-italic">{{ post.date | machineDate }}</h6>
+			<p class="card-text">{{ post.data.summary }}</p>
+			<a href="{{ post.url | url }}" class="btn btn-primary">Read</a>
+		</div>
+	</div>
+{% endfor %}
