@@ -17,7 +17,7 @@
 			{% endif %}
 			<p>
 				<time datetime="{{ post.date | machineDate }}">
-					{{ post.date.toDateString() }}
+					{{ post.date | machineDate }}
 				</time>
 			</p>
 			{% if post.data.tags %}

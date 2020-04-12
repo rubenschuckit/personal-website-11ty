@@ -1,0 +1,27 @@
+.myNav {
+  background-color: #f8f9fa;
+  padding: 0.5rem 1rem;
+  overflow-x: auto;
+}
+
+.navLink {
+  color: rgba(0, 0, 0, 0.5);
+  padding-right: 0.5rem;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+.brand {
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.active {
+    color: black;
+}
