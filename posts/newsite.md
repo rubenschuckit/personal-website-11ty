@@ -33,6 +33,25 @@ The most dynamic aspect of the site are the blog posts. It's really just for my 
 
 ## Netlify CMS
 
-Which brings me to my last point. Another bit of Netlify praise. Netlify offers an awesome tool called [Netlify CMS](https://www.netlifycms.org/). A much larger website might use a Headless CMS that sends contents across the network separate from the initial markup. I don't want to set up an additional server, so with Netlify CMS I can use an awesome GUI to write a post and have it (somewhat magically) end up committed in my Git repository in the right directory as MD so that 11ty can do the rest...
+Which brings me to my last point. Another bit of Netlify praise. Netlify offers an awesome tool called [Netlify CMS](https://www.netlifycms.org/). A much larger website might use a Headless CMS that sends contents across the network separate from the initial markup. I don't want to set up an additional server, so with Netlify CMS I can use an awesome GUI to write a post and have it (somewhat magically) end up committed in my Git repository in the right directory as MD so that 11ty can do the rest.
+
+When I wrote the Angular site, there was a lot of TS/JS that had to be written. With 11ty, not so much. But I did want my blog posts to be grouped by year, and I could accomplish this with a custom collection that nests the posts by their year at the top level of a JS object. It's a hacky group by, but gets the job done. 
+
+```javascript
+ eleventyConfig.addCollection("blogPosts", function(collection) {
+    const posts = collection.getFilteredByTag("post");
+    const postsByYear = [];
+    posts.forEach(post => {
+      const currentIndex = postsByYear.length - 1;
+      const year = DateTime.fromJSDate(post.date).year;
+      if (currentIndex === -1 || postsByYear[currentIndex].year !== year) {
+        postsByYear.push({ year, posts: [post] });
+      } else {
+        postsByYear[currentIndex].posts.push(post);
+      }
+    });
+    return postsByYear;
+  });
+```
 
 ![11ty](https://camo.githubusercontent.com/f1a9a3921ae3ea9bd2b024d763bdddd8c931be6f/68747470733a2f2f7777772e313174792e696f2f696d672f6c6f676f2d6769746875622e706e67)
