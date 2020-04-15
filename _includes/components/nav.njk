@@ -6,13 +6,11 @@
 </style>
 {% set navPages = collections.all | eleventyNavigation %}
 
-<nav>
-  <div class="d-flex align-content-center myNav">
-    <div class="brand">Ruben Schuckit</div>
+<nav class="d-flex align-content-center myNav">
+  <div class="brand">Ruben Schuckit</div>
+  <div class="linkContainer d-flex align-items-center">
     {%- for entry in navPages %}
-      <div class="linkContainer d-flex align-items-center">
-        <a class="navLink {% if entry.url == page.url %}active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
-      {%- endfor %}
-    </div>
+      <a class="navLink pr-2 {% if entry.url == page.url %}active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
+    {%- endfor %}
   </div>
 </nav>
