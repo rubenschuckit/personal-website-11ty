@@ -11,8 +11,8 @@
     <div class="brand">Ruben Schuckit</div>
     {%- for entry in navPages %}
       <div class="linkContainer d-flex align-items-center">
-        <a class="navLink {% if entry.url == page.url %}active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}
-        {%- endfor %}
-      </div>
+        <a class="navLink {% if entry.url == page.url %}active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
+      {%- endfor %}
     </div>
-  </nav>
+  </div>
+</nav>
