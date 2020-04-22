@@ -2,6 +2,12 @@
 layout: layouts/base.njk
 section: post
 ---
+{% set css %}
+{% include "assets/css/post.css" %}
+{% endset %}
+<style>
+  {{css | cssmin | safe}}
+</style>
 
 <article class="container-md pt-3 pb-3" style="max-width: 750px">
   <h1>{{ title }}</h1>
