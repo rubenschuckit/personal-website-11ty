@@ -53,5 +53,3 @@ When I wrote the Angular site, there was a lot of TS/JS that had to be written. 
     return postsByYear;
   });
 ```
-
-![11ty]()
