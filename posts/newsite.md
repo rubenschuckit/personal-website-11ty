@@ -37,9 +37,9 @@ Which brings me to my last point. Another bit of Netlify praise. Netlify offers 
 
 When I wrote the Angular site, there was a lot of TS/JS that had to be written. With 11ty, not so much. But I did want my blog posts to be grouped by year, and I could accomplish this with a custom collection that nests the posts by their year at the top level of a JS object. It's a hacky group by, but gets the job done. 
 
-```javascript
- eleventyConfig.addCollection("blogPosts", function(collection) {
-    const posts = collection.getFilteredByTag("post");
+``` js
+ eleventyConfig.addCollection('blogPosts', collection => {
+    const posts = collection.getFilteredByTag('post');
     const postsByYear = [];
     posts.forEach(post => {
       const currentIndex = postsByYear.length - 1;
