@@ -41,11 +41,11 @@ In order to copy the String, each character is revisited and copied to a new Str
 
 More specifically, if we know the character counts of the lines from lines 1 to 3 (including new line character) are 43, 43, and 44, the following will occur.
 
-**Step 1:**To append the first line of the file we are iterating over the 43 characters from line 1, creating a String with those characters, and assigning it to `entireFile`. **Count from step 1: 43.**
+**Step 1:** To append the first line of the file we are iterating over the 43 characters from line 1, creating a String with those characters, and assigning it to `entireFile`. **Count from step 1: 43.**
 
-**Step 2:**When we come to line 2, we cannot just append to the end of what `entireFile` holds since the String is immutable and locked in to its initial assignment. Instead, we must create a new String by first copying over the characters already in `entireFile` and then append the characters of the second line and *then*assign the result of this new String to `entireFile`. The number of characters we will have to iterate over is 43 from what `entireFile` holds before appending the second line and then an additional 43 to write the second line to the new String. **Count from step 2: 86.**
+**Step 2:** When we come to line 2, we cannot just append to the end of what `entireFile` holds since the String is immutable and locked in to its initial assignment. Instead, we must create a new String by first copying over the characters already in `entireFile` and then append the characters of the second line and *then*assign the result of this new String to `entireFile`. The number of characters we will have to iterate over is 43 from what `entireFile` holds before appending the second line and then an additional 43 to write the second line to the new String. **Count from step 2: 86.**
 
-**Step 3:**Much the same as step 2, we must first copy over the contents of lines 1 and 2 costing us 86 character iterations and then append the 44 characters of line 3. **Count from step 3: 130.**
+**Step 3:** Much the same as step 2, we must first copy over the contents of lines 1 and 2 costing us 86 character iterations and then append the 44 characters of line 3. **Count from step 3: 130.**
 
 When we add up the totals from each step we can see how many characters were iterated over in total to create a String by looping over each line from a file. The total is 43 + 86 + 130 = 259. That’s iterating over 259 characters for a resulting String that has only 130 characters. The difference between the two numbers grows wider as we add more than three lines.
 
