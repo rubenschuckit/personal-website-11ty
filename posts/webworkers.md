@@ -25,7 +25,7 @@ No, it can. Thanks to Web Workers. A Web Worker is a JS file you can truly run c
 
 So is this necessary? When I first learned about the event queue I actually wondered to myself are there ever any circumstances where the main thread never has time to check the event queue in the first place? I don't know why I became so focused on this, but I was sort of naive about how much idle time there really was. But I have created a contrived example to do just that by calculating  Fibonacci numbers where we recalculate the same values a bazillion times. 
 
-<div class="glitch-embed-wrap pb-3 col-xs-12 col-lg-6" style="height: 590px">
+<div class="glitch-embed-wrap pb-3" style="height: 590px">
   <iframe
     src="https://glitch.com/embed/#!/embed/worker-example-fib?path=index.html&previewSize=100&attributionHidden=true"
     title="worker-example-fib on Glitch"
