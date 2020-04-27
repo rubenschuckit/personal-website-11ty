@@ -11,6 +11,10 @@ To get the full context of 2020, I need to go back to 2019. Don't worry, just to
 
 After a great meal, and celebrating entry into 2020, we stepped outside where it was somehow even more crowded. Everyone in Paris was celebrating. And to add to the chaos, a union strike meant reduced train services and road closures that bisected the city. One side of the city had all the cabs; the other had barely any. Guess which one we were in?
 
-But things worked out, as they always did. As soon as I got back to the apartment we were staying at, I began some last-minute packing. I'd leave the next day. Weirdly enough, not the first time I've flown internationally on Jan 1st (the other was entering and not leaving Europe though). 
+But things worked out, as they always do. As soon as I got back to the apartment we were staying at, I began some last-minute packing. I'd leave the next day. Weirdly enough, not the first time I've flown internationally on Jan 1st (the other was entering and not leaving Europe though). 
 
 The next day I made my way through the Charles de Gaulle's futuristic yet impractical architecture to board my full flight. The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
+
+What followed was completely unexpected and caught everyone off guard. Little did I know the congested and cramped environs of Paris that I had just experienced would be viewed as an existential threat months later. 
+
+I don't remember the first time I heard or learned about the Coronavirus. But I do remember wondering to myself, as I listened to *Up First* on my packed Chicago L car, how long it had been since the Coronavirus had not been mentioned in a story every day. As I chatted about it with my friends, I remember exclaiming, "I'm not worried at all given how packed the L is every day." But at the same time I remember only using one hand on the bars during my train ride and keeping the other free for my phone to prevent crossover of germs. In the early term, I didn't see it as a threat. No one did. I didn't know how pandemics worked. I thought that since China was taking drastic and draconian measures to cordon off the epicenter, we would be safe in the US. Obviously that's not how it played out.
