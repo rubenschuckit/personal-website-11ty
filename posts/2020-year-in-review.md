@@ -19,6 +19,6 @@ What followed was completely unexpected and caught everyone off guard. Little di
 
 I don't remember the first time I heard or learned about the Coronavirus. But I do remember wondering to myself, as I listened to *Up First* on my packed Chicago L car, how long it had been since the Coronavirus had not been mentioned in a story every day. As I chatted about it with my friends, I remember exclaiming, "I'm not worried at all given how packed the L is every day." But at the same time I remember only using one hand on the bars during my train ride and keeping the other free for my phone to prevent crossover of germs. In the early term, I didn't see it as a threat. No one did. I didn't know how pandemics worked. I thought that since China was taking drastic and draconian measures to cordon off the epicenter, we would be safe in the US. Obviously that's not how it played out.
 
-![Google](/static/img/google_logo-2-.webp "Google")
+![Google](/static/img/glogo.png "Google")
 
 Oh
