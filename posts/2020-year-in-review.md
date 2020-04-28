@@ -21,4 +21,4 @@ I don't remember the first time I heard or learned about the Coronavirus. But I 
 
 ![Google](/static/img/glogo.png "Google")
 
-Oh
+Still, there were other big changes in store. I had decided to switch jobs to Google. As the transition began, governments around the country began issuing shelter in place warnings. My lat week at JPMorgan was remote :( Most of my belongings were stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google. The signs of the remote start were gradual. First Google said I could start on campus on my start date, but orientation was cancelled. Then their offices closed.
