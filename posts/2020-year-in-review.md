@@ -13,7 +13,7 @@ After a great meal, and celebrating entry into 2020, we stepped outside where it
 
 But things worked out, as they always do. As soon as I got back to the apartment we were staying at, I began some last-minute packing. I'd leave the next day. Weirdly enough, not the first time I've flown internationally on Jan 1st (the other was entering and not leaving Europe though). 
 
-The next day I made my way through the Charles de Gaulle's futuristic yet impractical architecture to board my full flight. The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
+The next day I made my way through Charles de Gaulle's futuristic yet impractical architecture to board my full flight. The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
 
 What followed was completely unexpected and caught everyone off guard. Little did I know the congested and cramped environs of Paris that I had just experienced would be viewed as an existential threat months later. 
 
@@ -21,4 +21,4 @@ I don't remember the first time I heard or learned about the Coronavirus. But I 
 
 ![Google](/static/img/glogo.png "Google")
 
-Still, there were other big changes in store. I had decided to switch jobs to Google. As the transition began, governments around the country began issuing shelter in place warnings. My lat week at JPMorgan was remote :( Most of my belongings were stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google. The signs of the remote start were gradual. First Google said I could start on campus on my start date, but orientation was cancelled. Then their offices closed.
+Still, there were other big changes in store. I had decided to switch jobs to Google. As my start date grew nearer, cities around the country began issuing shelter in place warnings. My lat week at JPMorgan turned out being remote :( Most of my belongings were stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google.
