@@ -1,9 +1,29 @@
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 body {
-	font-family: 'Manrope', sans-serif !important;
-	letter-spacing: 0.03rem;
+  font-family: "Manrope", sans-serif !important;
+  letter-spacing: 0.03rem;
 }
-  
+
+main a {
+  position: relative;
+}
+
+main a:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+
+main a:hover:before {
+  visibility: visible;
+  width: 100%;
+}
