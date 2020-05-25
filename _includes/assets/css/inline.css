@@ -27,3 +27,7 @@ main a:hover:before {
   visibility: visible;
   width: 100%;
 }
+
+.no-link-decoration:hover:before {
+  visibility: hidden !important;
+}
