@@ -21,4 +21,14 @@ I don't remember the first time I heard or learned about the Coronavirus. But I 
 
 ![Google](/static/img/glogo.png "Google")
 
-Still, there were other big changes in store. I had decided to switch jobs to Google. As my start date grew nearer, cities around the country began issuing shelter in place warnings. My lat week at JPMorgan turned out being remote :( Most of my belongings were stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google.
+Still, there were other big changes in store. I had decided to switch jobs to Google. As my start date grew nearer, cities around the country began issuing shelter in place warnings. My last week at JPMorgan turned out being remote. Most of my belongings were stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google.
+
+# Leaving Chicago
+
+My departure from Chicago was delayed to say the least. My first day at Google was in late April. I was able to extend my lease until the end of July, at which point I moved into one of Google's corporate apartments in Chicago until they unfroze relocations. 
+
+I found it *especially* difficult to leave my apartment and neighborhood. As a renter, I never developed a sense of equity in the place and knew clearly that I would not be there forever. But leaving forced me to confront the fact that I had built a *home* there. In college I stayed in a different apartment every year, so really my stay in that apartment was the longest duration I had lived in one place since my childhood home, which I had not lived in for 6 years. 
+
+But my fixation on my apartment was merely a symptom of a broader feeling. The feeling of moving on. After looking at my blank apartment after the movers finished, I couldn't help but harken back to the first time I viewed that apartment in an identical state. And it felt like my years there had been erased. That my time spent there had been reset so that the next tenant could build what I built there. And of course this is the case, in order for the space to feel my own there couldn't be a semblance of the previous tenants. 
+
+But again, I fixated on my apartment because it was an easy target. The same could be said for how I felt about leaving Chicago. Moving out of my apartment is such a permanent act, and it forced me to confront that this chapter of my life was closing. And it forced me to confront that, Chicago no longer being the dominant chapter, that memory would begin to fade. Just as previous parts of my life began to fade into the distance. And although this is a necessary prerequisite for being in a position to create chapters we look back fondly on in the first place, being in the corporate apartment in a new neighborhood in Chicago prevented the new chapter from being written. I had finished one chapter and instead of being able to start the new one I was stuck merely writing the new chapter's name in the table of contents and writing nothing more.
