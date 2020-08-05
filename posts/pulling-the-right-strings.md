@@ -31,11 +31,11 @@ Whether 'tis nobler in the mind to suffer
 The slings and arrows of outrageous fortune
 ```
 
-**Iteration 1**: Create a new String with contents “To be, or not to be, that is the question:\n”
+**Iteration 1**: Create a new String with contents `To be, or not to be, that is the question:\n`
 
-**Iteration 2***:* Copy(“To be, or not to be, that is the question:\n”) and append “Whether ’tis nobler in the mind to suffer\n”
+**Iteration 2***:* Copy `To be, or not to be, that is the question:\n` and append `Whether ’tis nobler in the mind to suffer\n`
 
-**Iteration 3***:* Copy(“To be, or not to be, that is the question:\n Whether ’tis nobler in the mind to suffer\n”) and append “The slings and arrows of outrageous fortune”)
+**Iteration 3***:* Copy `To be, or not to be, that is the question:\n Whether ’tis nobler in the mind to suffer\n` and append `The slings and arrows of outrageous fortune`
 
 In order to append to the String, each character is revisited and copied to a new String, which will then be assigned to `entireFile`.
 
