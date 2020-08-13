@@ -21,9 +21,13 @@
   {% include "assets/css/inline.css" %}
   {% include "assets/css/bootstrap.css" %}
   {% endset %}
-  <style>
-    {{css | cssmin | safe}}
-  </style>
+  {% if site.environment === 'production' %}
+    <!-- INLINE CSS-->
+  {% else %}
+    <style>
+    {{ css | cssmin | safe}}
+    </style>
+  {% endif %}
   {% set js %}
   {% include "assets/js/inline.js" %}
   {% endset %}

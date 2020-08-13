@@ -5,19 +5,19 @@ const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const { PurgeCSS } = require("purgecss");
 
 module.exports = function (eleventyConfig) {
-
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  
+
   eleventyConfig.addPlugin(syntaxHighlight);
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
   // layout: post. If you don’t want to rewrite all of those values, just map
   // post to a new file like this:
-  // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
+  // eleventyConfig.addLayoutAlias('post', 'layouts/my_new_post_layout.njk');
 
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
@@ -26,7 +26,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("blogPosts", function (collection) {
     const posts = collection.getFilteredByTag("post");
     const postsByYear = [];
-    posts.forEach(post => {
+    posts.forEach((post) => {
       const currentIndex = postsByYear.length - 1;
       const year = DateTime.fromJSDate(post.date).year;
       if (currentIndex === -1 || postsByYear[currentIndex].year !== year) {
@@ -38,15 +38,43 @@ module.exports = function (eleventyConfig) {
     return postsByYear;
   });
 
+  /**
+   * Remove any CSS not used on the page and inline the remaining CSS in the
+   * <head>.
+   *
+   * @see {@link https://github.com/FullHuman/purgecss}
+   */
+  eleventyConfig.addTransform(
+    "purge-and-inline-css",
+    async (content, outputPath) => {
+      if (
+        process.env.ELEVENTY_ENV !== "production" ||
+        !outputPath.endsWith(".html")
+      ) {
+        return content;
+      }
+
+      const purgeCSSResults = await new PurgeCSS().purge({
+        content: [{ raw: content }],
+        css: ["dist/css/style.css"],
+        keyframes: true,
+      });
+
+      return content.replace(
+        "<!-- INLINE CSS-->",
+        "<style>" + purgeCSSResults[0].css + "</style>"
+      );
+    }
+  );
   // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", dateObj => {
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
   // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", dateObj => {
-    // Set to UTC so dates aren't off by one. 
-    return DateTime.fromJSDate(dateObj).setZone('utc').toFormat("D");
+  eleventyConfig.addFilter("machineDate", (dateObj) => {
+    // Set to UTC so dates aren't off by one.
+    return DateTime.fromJSDate(dateObj).setZone("utc").toFormat("D");
   });
 
   // Minify CSS
@@ -70,7 +98,7 @@ module.exports = function (eleventyConfig) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
       });
       return minified;
     }
@@ -82,7 +110,7 @@ module.exports = function (eleventyConfig) {
     return slugify(str, {
       lower: true,
       replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
+      remove: /[*+~.·,()''`´%!?¿:@]/g,
     });
   });
 
@@ -98,14 +126,15 @@ module.exports = function (eleventyConfig) {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   };
   let opts = {
-    permalink: false
+    permalink: false,
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt(options).use(markdownItAnchor, opts)
   );
 
   return {
@@ -113,7 +142,7 @@ module.exports = function (eleventyConfig) {
 
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
+    // If you don’t have a subdirectory, use '' or '/' (they do the same thing)
     // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
 
@@ -124,7 +153,7 @@ module.exports = function (eleventyConfig) {
       input: ".",
       includes: "_includes",
       data: "_data",
-      output: "_site"
-    }
+      output: "_site",
+    },
   };
 };
