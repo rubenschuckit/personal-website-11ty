@@ -1,11 +1,12 @@
 ---
 title: Web Workers - A Contrived Example
-summary: What are Web Workers and why are they useful?  
 date: 2019-12-14
+summary: What are Web Workers and why are they useful?
 tags:
   - tech
 ---
 ## Single Threaded and Concurrent? Hm..
+
 My eyes to how JS works were opened after I watched [this video](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts about the JS Event Loop. If you haven't watched it, I highly recommend you do (it deservedly has over a million views now). 
 
 When you are first learning JS, one thing you encounter early on is the concept of a callback. When you're first introduced to it, you may not wonder how it works. They're commonly used to help with async flow. From a high-level and perspective it's pretty simple: when something async happens, call this function that is usually passed into another function anonymously. 
@@ -21,6 +22,7 @@ This is a fundamental design of JS. Although JS is doing a lot more than the cre
 How does this work? Well--watch the [video](www.youtube.com/watch?v=8aGhZQkoFbQ). But the long and short is whenever there are no more instructions for the JS thread to execute, it will check an event queue to see if there are any functions to execute. This keeps your UI running smoothly. Network calls can be notoriously slow and we wouldn't want the UI to freeze every time one occurred. The browser can handle the request in its own thread and then add to the event queue when it has the results.
 
 ### So JS Can't Be Concurrent Then...?
+
 No, it can. Thanks to Web Workers. A Web Worker is a JS file you can truly run concurrently and you can communicate back to the main thread using callbacks (event queue). 
 
 So is this necessary? When I first learned about the event queue I actually wondered to myself are there ever any circumstances where the main thread never has time to check the event queue in the first place? I don't know why I became so focused on this, but I was sort of naive about how much idle time there really was. But I have created a contrived example to do just that by calculating  Fibonacci numbers where we recalculate the same values a bazillion times. 
@@ -35,7 +37,7 @@ So is this necessary? When I first learned about the event queue I actually wond
 </div>
 
  **Careful, don't  input a number higher than 30-40 at first!**
- The above demo simply calculates the *n*th Fibonacci number recursively by calculating subvalues over and over again. It's an exponential algorithm, and it keeps the main JS thread busy enough to demonstrate what happens when its blocked. 
+ The above demo simply calculates the *n*th Fibonacci number recursively by calculating subvalues over and over again. It's an exponential algorithm, and it keeps the main JS thread busy enough to demonstrate what happens when it's blocked. 
 
 For example, when I input 40 on my computer, the square stops animating. This is because the main JS thread is also responsible for painting the UI. When it's busy calculating the *n*th Fibonacci number, the event queue grows and nothing is pulled off of it. I animated the square to make this more obvious, but there is another subtle problem. The button that you press stays in the depressed state because it too cannot be repainted as unpressed. 
 
