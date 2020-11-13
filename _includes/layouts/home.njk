@@ -3,13 +3,18 @@ layout: layouts/base.njk
 section: Ruben Schuckit's Website
 ---
 
+{% set js %}
+  {% include "assets/js/home.js" %}
+{% endset %}
+
 <div class="container p-3">
   <div class="row">
     <div class="col-sm-12 col-md-2 mb-3">
-      <picture>
+      <picture class="photo-me">
         <source media="(min-width: 768px)" srcset="static/img/my_picture.jpg"/>
         <img class="rounded mx-auto d-block" src="static/img/my_picture_small.jpg"/>
       </picture>
+      <img class="rounded d-none photo-noogler" src="static/img/noogler.gif"/>
       <div class="mt-1 p-lg-3 p-1 d-flex justify-content-between border-lg">
         <a href="https://github.com/rubenschuckit" rel="noopener" target="_blank" class="no-link-decoration">
           <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/github.svg"/>
@@ -75,3 +80,7 @@ section: Ruben Schuckit's Website
     </div>
   </div>
 </div>
+
+<script defer>
+  {{ js | jsmin | safe }}
+</script>
