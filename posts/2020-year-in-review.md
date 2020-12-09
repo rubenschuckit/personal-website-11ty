@@ -1,5 +1,5 @@
 ---
-title: 2020 Year in Review
+title: 2020, You're on Mute - Year in Review
 date: 2020-04-27T04:39:47.457Z
 summary: So many changes...good and bad.
 tags:
