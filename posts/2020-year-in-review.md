@@ -23,7 +23,7 @@ I don't remember the first time I heard or learned about the Coronavirus. But I 
 
 Still, there were other big changes in store. I had decided to switch jobs to Google. As my start date grew nearer, cities around the country began issuing shelter in place warnings. My last week at JPMorgan turned out being remote. Most of my office belongings are still stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google.
 
-# Leaving Chicago
+# Goodbye Chicago, Greetings California
 
 My departure from Chicago was delayed to say the least. My first day at Google was in late April, but I didn't get to California until October. I was going to move in April, but Google froze relocations. Google asked me to ask my landlord for an additional three months. My landlord nicely agreed. After the three months were up Google asked if I could get another 3 months. My landlord said he could only do a year. Google said as soon as they returned to the office in any capacity, I'd have 3 months to get to CA. So obviously that wasn't going to work, so I moved out at the end of July. Two days later, Google announced we could work from home an additional year. What. Timing.
 
