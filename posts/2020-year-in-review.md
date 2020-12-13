@@ -39,4 +39,15 @@ I've been on my team at Google for over 7 months at this point (time flies). It'
 
 Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results page and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
 
-A lot of people always ask me if I regret making such big changes during pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy to for life to feel stagnant. I'm glad that, even superficially, when I look back on this time I can point to events that prove that–despite this period that has put so much on pause–I have continued moving forward. It poses challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
+# Predictions in Conclusions
+
+If 2020 has taught me anything, a year can change course in the blink of an eye. But here are my predictions for 2021 (to be updated as they come true or not):
+
+* Get vaccinated for (against?) COVID
+* Sit at my desk on the Google campus
+* Visit Chicago
+* Find a favorite restaurant in the Bay Area
+* Embrace California culture by unironically asking for more kale in my dish
+* Maintain my friendships all over the country and make new ones (so wholesome!) 
+
+A lot of people always ask me if I regret making such big changes during pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy to for life to feel stagnant. I'm glad that I have continued moving forward. This year posed challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
