@@ -23,7 +23,7 @@ I don't remember the first time I heard or learned about the Coronavirus. But I 
 
 Still, there were other big changes in store. I had decided to switch jobs to Google. As my start date grew nearer, cities around the country began issuing shelter in place warnings. My last week at JPMorgan turned out being remote. Most of my office belongings are still stuck in the Chicago Chase Tower skyscraper. But not only was my last week remote, so was my first at Google.
 
-# Goodbye Chicago, Greetings California
+# Goodbye Chicago, Hello California
 
 My departure from Chicago was delayed to say the least. My first day at Google was in late April, but I didn't get to California until October. I was going to move in April, but Google froze relocations. Google asked me to ask my landlord for an additional three months. My landlord nicely agreed. After the three months were up Google asked if I could get another 3 months. My landlord said he could only do a year. Google said as soon as they returned to the office in any capacity, I'd have 3 months to get to CA. So obviously that wasn't going to work, so I moved out at the end of July. Two days later, Google announced we could work from home an additional year. What. Timing.
 
@@ -32,5 +32,11 @@ Still, I found it especially difficult to leave my apartment and neighborhood. A
 But my fixation on my apartment was merely a symptom of a broader feeling. The feeling of moving on. After looking at my blank apartment after the movers finished, I couldn't help but harken back to the first time I viewed that apartment in an identical state and think about all that had happened in between. 
 
 And now I have looked at my new blank-slate apartment in Mountain View. It will be an adjustment moving from a city to the suburbs, but I'll be close to work as soon as it starts opening in any form (whenever that is...). And so, even though I have no clue what the next chapter will be like, I am well-positioned when it is ready to start. 
+
+# New Work
+
+I've been on my team at Google for over 7 months at this point (time flies). It's required an enormous amount of ramping up. Google builds all of its own tooling, and often the common open source paradigms don't translate very well. 
+
+Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results page and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
 
 A lot of people always ask me if I regret making such big changes during pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy to for life to feel stagnant. I'm glad that, even superficially, when I look back on this time I can point to events that prove that–despite this period that has put so much on pause–I have continued moving forward. It poses challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
