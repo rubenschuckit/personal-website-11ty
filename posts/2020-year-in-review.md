@@ -1,6 +1,6 @@
 ---
 title: 2020, You're on Mute - Year in Review
-date: 2020-04-27T04:39:47.457Z
+date: 2020-12-13T03:52:07.326Z
 summary: So many changes...good and bad.
 tags:
   - post
@@ -13,7 +13,9 @@ After a great meal, and celebrating entry into 2020, we stepped outside where it
 
 But things worked out, as they always do. As soon as I got back to the apartment we were staying at, I began some last-minute packing. I'd leave the next day. 
 
-Early the next morning, I made my way through Charles de Gaulle's futuristic yet impractical architecture to board my full flight. The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
+Early the next morning, I made my way through Charles de Gaulle's futuristic yet impractical architecture to board my full flight. 
+
+The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
 
 What followed was completely unexpected and caught everyone off guard. Little did I know the congested and cramped environs of Paris that I had just experienced would be viewed as an existential threat months later. 
 
@@ -31,15 +33,15 @@ Still, I found it especially difficult to leave my apartment and neighborhood. A
 
 But my fixation on my apartment was merely a symptom of a broader feeling. The feeling of moving on. After looking at my blank apartment after the movers finished, I couldn't help but harken back to the first time I viewed that apartment in an identical state and think about all that had happened in between. 
 
-And now I have looked at my new blank-slate apartment in Mountain View. It will be an adjustment moving from a city to the suburbs, but I'll be close to work as soon as it starts opening in any form (whenever that is...). And so, even though I have no clue what the next chapter will be like, I am well-positioned when it is ready to start. 
+And now I have looked at my new blank-slate apartment in Mountain View. It will be an adjustment moving here, but I'll be close to work as soon as it starts opening in any form (whenever that is...). And so, even though I have no clue what the next chapter will be like, I am well-positioned when it is ready to start. 
 
 # New Work
 
-I've been on my team at Google for over 7 months at this point (time flies). It's required an enormous amount of ramping up. Google builds all of its own tooling, and often the common open source paradigms don't translate very well. 
+I've been on my team at Google for over 7 months at this point (time flies). It's required a big dose of ramping up. Google builds all of its own tooling, and often the common open source paradigms don't translate very well. 
 
-Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results page and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
+Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
 
-# Predictions in Conclusions
+# Predictions and Conclusions
 
 If 2020 has taught me anything, a year can change course in the blink of an eye. But here are my predictions for 2021 (to be updated as they come true or not):
 
@@ -47,7 +49,11 @@ If 2020 has taught me anything, a year can change course in the blink of an eye.
 * Sit at my desk on the Google campus
 * Visit Chicago
 * Find a favorite restaurant in the Bay Area
-* Embrace California culture by unironically asking for more kale in my dish
+* Embrace California culture by unironically asking for more kale
 * Maintain my friendships all over the country and make new ones (so wholesome!) 
 
 A lot of people always ask me if I regret making such big changes during pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy to for life to feel stagnant. I'm glad that I have continued moving forward. This year posed challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
+
+
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468664@N08" title=""><img src="https://live.staticflickr.com/65535/50713163066_d4b7f91343.jpg" width="640" height="480" alt=""></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
