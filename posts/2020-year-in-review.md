@@ -13,7 +13,7 @@ After a great meal, and celebrating entry into 2020, we stepped outside where it
 
 But things worked out, as they always do. As soon as I got back to the apartment we were staying at, I began some last-minute packing. I'd leave the next day. 
 
-Early the next morning, I made my way through Charles de Gaulle's futuristic yet impractical architecture to board my full flight. 
+Early the next morning, New Year's Day, I made my way through Charles de Gaulle's futuristic yet impractical architecture to board my full flight. 
 
 The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
 
@@ -29,7 +29,7 @@ Still, there were other big changes in store. I had decided to switch jobs to Go
 
 My departure from Chicago was delayed to say the least. My first day at Google was in late April, but I didn't get to California until October. I was going to move in April, but Google froze relocations. Google asked me to ask my landlord for an additional three months. My landlord nicely agreed. After the three months were up Google asked if I could get another 3 months. My landlord said he could only do a year. Google said as soon as they returned to the office in any capacity, I'd have 3 months to get to CA. So obviously that wasn't going to work, so I moved out at the end of July. Two days later, Google announced we could work from home an additional year. What. Timing.
 
-Still, I found it especially difficult to leave my apartment and neighborhood. As a renter, I never developed a sense of equity in the place and knew clearly that I would not be there forever. But leaving forced me to confront the fact that I had built a *home* there. In college I stayed in a different apartment every year, so really my stay in that apartment was the longest duration I had lived in one place since my childhood home, which I had not lived in for over 6 years. 
+Still, I found it especially difficult to leave my apartment and neighborhood. As a renter, I never developed a sense of equity in the place and knew clearly that I would not be there forever. But leaving forced me to confront the fact that I had built a home there. In college I stayed in a different apartment every year, so really my stay in that apartment was the longest duration I had lived in one place since my childhood home, which I had not lived in for over 6 years. 
 
 But my fixation on my apartment was merely a symptom of a broader feeling. The feeling of moving on. After looking at my blank apartment after the movers finished, I couldn't help but harken back to the first time I viewed that apartment in an identical state and think about all that had happened in between. 
 
@@ -43,14 +43,14 @@ Open source projects lure in users (and thus contributors) through great develop
 
 # Predictions and Conclusions
 
-If 2020 has taught me anything, a year can change course in the blink of an eye. But here are my predictions for 2021 (to be updated as they come true or not):
+If 2020 has taught me anything, a year can change course in the blink of an eye. But here are my predictions for 2021 (to be updated as they come true or not ✅/❌):
 
 * Get vaccinated for (against?) COVID
 * Sit at my desk on the Google campus
 * Visit Chicago
 * Find a favorite restaurant in the Bay Area
 * Embrace California culture by unironically asking for more kale
-* Maintain my friendships all over the country and make new ones (so wholesome!) 
+* Maintain my current friendships all over the country and make new ones (so wholesome!) 
 
 A lot of people always ask me if I regret making such big changes during pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy to for life to feel stagnant. I'm glad that I have continued moving forward. This year posed challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
 
