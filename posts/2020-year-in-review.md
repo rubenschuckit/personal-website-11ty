@@ -15,11 +15,13 @@ But things worked out, as they always do. As soon as I got back to the apartment
 
 Early the next morning, New Year's Day, I made my way through Charles de Gaulle's futuristic yet impractical architecture to board my full flight. 
 
-The previous day marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
+The previous day had marked my last day in Paris, the last day of 2019, and the first time the Chinese Government alerted the WHO of a suspicious cluster of pneumonia cases.
+
+# COVID Dominates The Year
 
 What followed was completely unexpected and caught everyone off guard. Little did I know the congested and cramped environs of Paris that I had just experienced would be viewed as an existential threat months later. 
 
-I don't remember the first time I heard or learned about the Coronavirus. But I do remember wondering to myself, as I listened to *Up First* on my packed Chicago L car, how long it had been since the Coronavirus had not been mentioned in a story every day. As I chatted about it with my friends, I remember exclaiming, "I'm not worried at all given how packed the L is every day." But at the same time I remember only using one hand on the bars during my train ride and keeping the other free for my phone to prevent crossover of germs. In the early term, I didn't see it as a threat. No one did. I didn't know how pandemics worked. I thought that since China was taking drastic and draconian measures to cordon off the epicenter, we would be safe in the US. Obviously that's not how it played out.
+I don't remember the first time I heard or learned about the Coronavirus. But I do remember wondering to myself, as I listened to *Up First* on my packed Chicago L car, how long it had been since the Coronavirus had not been mentioned in a story every day. As I chatted about it with my friends, I remember exclaiming, "I'm not worried at all given how packed the L is." But at the same time I remember only using one hand on the bars during my train ride and keeping the other free for my phone to prevent crossover of germs. In the early term, I didn't see it as a threat. No one did. I didn't know how pandemics worked. I thought that since China was taking drastic and draconian measures to cordon off the epicenter, we would be safe in the US. Obviously that's not how it played out.
 
 ![Google](/static/img/webp.net-resizeimage.png "Google")
 
@@ -39,7 +41,7 @@ And now I have looked at my new blank-slate apartment in Mountain View. It will 
 
 I've been on my team at Google for over 7 months at this point (time flies). It's required a big dose of ramping up. Google builds all of its own tooling, and often the common open source paradigms don't translate very well. 
 
-Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
+Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results (and ads!) and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
 
 # Predictions and Conclusions
 
