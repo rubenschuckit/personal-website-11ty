@@ -1,6 +1,6 @@
 ---
 title: 2020, You're on Mute - Year in Review
-date: 2020-12-13T03:52:07.326Z
+date: 2020-12-22T03:52:07.326Z
 summary: So many changes...good and bad.
 tags:
   - post
@@ -58,4 +58,4 @@ A lot of people always ask me if I regret making such big changes during pandemi
 
 # Favorite Photos of 2020
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/191468664@N08/albums/72157717285978376" title="2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468664@N08/albums/72157717285978376" title="2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
