@@ -41,7 +41,7 @@ And now I have looked at my new blank-slate apartment in Mountain View. It will 
 
 I've been on my team at Google for over 7 months at this point (time flies). It's required a big dose of ramping up. Google builds all of its own tooling, and often the common open source paradigms don't translate very well. 
 
-Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results (and ads!) and how they are optimized within an inch of their lives so that you can get your query results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
+Open source projects lure in users (and thus contributors) through great developer experience. There's a big market of tools out there, and with it big competition. At Google there really isn't a choice, so the tools are unsurprisingly optimized for performance and task over developer experience. It's a great learning opportunity to see the **many** layers of the stack that deliver your search results (and ads!) and how they are optimized within an inch of their lives so that you can get your results as fast as possible. But it's required me reimagining how systems look and interact. That being said, some of the tools I work with are true masterpieces of engineering, and I've only scratched the surface. 
 
 # Predictions and Conclusions
 
@@ -58,4 +58,4 @@ A lot of people always ask me if I regret making such big changes during pandemi
 
 # Favorite Photos of 2020
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/191468664@N08/albums/72157717285978376" title="2020"><img src="https://live.staticflickr.com/65535/50713245827_487a4def3e.jpg" width="640" height="480" alt="2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468664@N08/albums/72157717285978376" title="2020"><img src="https://live.staticflickr.com/65535/50713245827_487a4def3e.jpg" width="640" height="480" alt="2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
