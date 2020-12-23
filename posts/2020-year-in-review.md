@@ -55,9 +55,12 @@ If 2020 has taught me anything, a year can change course in the blink of an eye.
 * Maintain my current friendships all over the country and make new ones (so wholesome!) 
 * Turn 25
 
-
 A lot of people always ask me if I regret making such big changes during pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy to for life to feel stagnant. I'm glad that I have continued moving forward. This year posed challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
 
 # Favorite Photos of 2020
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/191468664@N08/albums/72157717285978376" title="2020"><img src="https://live.staticflickr.com/65535/50713245827_487a4def3e.jpg" width="640" height="480" alt="2020"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![Collage](/static/img/befunky-collage.jpg)
+
+![Collage](/static/img/befunky-collage-1-.jpg)
+
+![Collage](/static/img/befunky-collage-2-.jpg)
