@@ -10,7 +10,7 @@
     "luxon": "^1.22.2",
     "markdown-it": "^11.0.0",
     "markdown-it-anchor": "^7.0.0",
-    "markdown-it-attrs": "3.0.3"
+    "markdown-it-attrs": "4.0.0"
   },
   "dependencies": {
     "@11ty/eleventy-navigation": "^0.1.5",
