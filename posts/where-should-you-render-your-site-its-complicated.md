@@ -53,9 +53,16 @@ I find it's easiest to discuss where the template is rendered by asking the ques
 </div>
 ```
 
+As you can see, the placeholders are already filled in. This is because the server rendered the template before it was sent to the client. All the client has to do at this point is paint the template. 
+
 ## Client Side Rendering
 
-In the client side rendered case, what's sent to the browser is far more complex and varies significantly framework to framework. But from an extremely high level it would look like this
+In the client side rendered case, what's sent to the browser is far more complex and varies significantly framework to framework. But from an extremely high level the template would look like this
+
+```html
+<div id="app"></div>
+<script src="https://cdn.com/main.js"></script>
+```
 
 ```javascript
 const e1 = document.createElement('div');
@@ -64,12 +71,23 @@ e2.innerHTML = 'First name:';
 const e3 = document.createElement('p');
 e3.innerHTML = 'Ruben';
 ...
-document.body.appendChild(e1);
+const root = document.getElementById('app');
+root.body.appendChild(e1);
 e1.appendChild(e2);
 e1.appendChild(e3);
 ...
 ```
 
+There's infinitely more complexity involved in client side rendering frameworks since they also manage state, event listeners, etc. But the main takeaway here is that JS is creating the template in the client, and the template sent to the client is not fully rendered. It's a shell or placeholder that the JS will fill. 
+
 ## Performance
 
-Already, even with this small example, we have enough to reason about the performance implications.
+Already, even with this small example, we have enough to reason about the performance implications. Which will render faster?
+
+Hopefully you said the server rendered template. The reasons are both obvious and subtle. 
+
+From a high level, the heavy lifting is taken care of by the server. It's put the template on a silver platter and sent it to the client. Now all the client has to do is paint it. Dead simple. 
+
+In the client side rendered example, there's a lot of extra work to be done in the client. First, the template that is sent is empty, so the user doesn't see anything initially. Now it makes an additional network request for the JS bundle that includes the rendering instructions. Once it downloads the JS, it has to parse and execute it. Then, once all of this is complete, the template will be ready to paint.
+
+In the server side rendered example, there is one network request and zero JS execution to paint the template. Imagine in the client side rendered example if you had a slow network connection. First you make a roundtrip to get the template. Once the browser reads the `script` tag, it will then make an additional network request for the JS bundle, which will be much larger than the template.
