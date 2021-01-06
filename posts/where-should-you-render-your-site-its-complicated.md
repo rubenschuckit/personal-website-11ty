@@ -21,7 +21,7 @@ This is the first sticking point in my mind. The process of painting the layout 
 
 In rich web apps, we use a lot of placeholders in our templates. For example, imagine an account information page that shows me me name, age, and email. The template pseudocode would look something like this
 
-```
+```html
 <div>
   <p>First name:</p>
   <p>{{person.firstName}}</p>
@@ -40,7 +40,7 @@ If this were sent to the browser as is, people would be confused why their first
 
 I find it's easiest to discuss where the template is rendered by asking the question: What is sent to the browser? In the case of server side rendering, this will be sent to the browser
 
-```
+```html
 <div>
   <p>First name:</p>
   <p>Ruben</p>
@@ -57,7 +57,7 @@ I find it's easiest to discuss where the template is rendered by asking the ques
 
 In the client side rendered case, what's sent to the browser is far more complex and varies significantly framework to framework. But from an extremely high level it would look like this
 
-```
+```javascript
 const e1 = document.createElement('div');
 const e2 = document.createElement('p');
 e2.innerHTML = 'First name:';
