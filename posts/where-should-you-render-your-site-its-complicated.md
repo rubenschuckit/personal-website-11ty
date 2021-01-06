@@ -64,6 +64,8 @@ In the client side rendered case, what's sent to the browser is far more complex
 <script src="https://cdn.com/main.js"></script>
 ```
 
+and an excerpt of main.js would look like
+
 ```javascript
 const e1 = document.createElement('div');
 const e2 = document.createElement('p');
