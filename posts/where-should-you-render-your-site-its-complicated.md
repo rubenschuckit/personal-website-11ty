@@ -1,5 +1,5 @@
 ---
-title: "Where Should You Render Your Site? It's Complicated. "
+title: Should you render your site in the client or the server? ¿Porque no los dos?
 date: 2021-01-06T04:43:51.140Z
 summary: "\"History Doesn't Repeat Itself, but It Often Rhymes\" - Mark Twain"
 tags:
@@ -64,8 +64,12 @@ e2.innerHTML = 'First name:';
 const e3 = document.createElement('p');
 e3.innerHTML = 'Ruben';
 ...
-document.body.append(e1);
+document.body.appendChild(e1);
 e1.appendChild(e2);
 e1.appendChild(e3);
 ...
 ```
+
+## Performance
+
+Already, even with this small example, we have enough to reason about the performance implications.
