@@ -96,4 +96,4 @@ In the server side rendered example, there is one network request and zero JS ex
 
 ## Ok, sounds like we should just always server side render? 
 
-Well, not so fast. The vast marketshare of front end frameworks are client side (React, Vue, Angular, Ember,...). What's the benefit?
+Well, not so fast. The vast marketshare of front end frameworks are client side (React, Vue, Angular, Ember,...). What's the benefit? Although the web was originally a simple document platform, today most of the apps we use are web apps. And we want them to feel like native apps. When we think of native apps, they are
