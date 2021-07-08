@@ -49,10 +49,10 @@ If 2020 has taught me anything, a year can change course in the blink of an eye.
 
 * Get vaccinated for (against?) COVID ✅ (4/13/21 - my Googleversary!)
 * Sit at my desk on the Google campus
-* Visit Chicago
+* Visit Chicago ✅ (7/1/21)
 * Find a favorite restaurant in the Bay Area
 * Embrace California culture by unironically asking for more kale
-* Maintain my current friendships all over the country and make new ones (so wholesome!) 
+* Maintain my current friendships all over the country and make new ones (so wholesome!) ✅ (7/6/21) *Marking this as complete after visiting four states outside of CA and seeing countless friends!*
 * Turn 25 ✅ (1/10/21)
 
 A lot of people always ask me if I regret making such big changes during a pandemic. Without taking too much time to think, I always respond that it was in fact worth it. Since staying and home and limiting contact is required during these trying times, it's easy for life to feel stagnant. I'm glad that I have continued moving forward. This year posed challenges, and 2021 will hold many of those challenges, but I'm fortunate to have an outlook that things will work out, as they always do.
