@@ -48,7 +48,7 @@ Open source projects lure in users (and thus contributors) through great develop
 If 2020 has taught me anything, a year can change course in the blink of an eye. But here are my predictions for 2021 (to be updated as they come true or not ✅/❌):
 
 * Get vaccinated for (against?) COVID ✅ (4/13/21 - my Googleversary!)
-* Sit at my desk on the Google campus
+* Sit at my desk on the Google campus ✅ (7/12/21 - My building is under construction, but I sat at *a* desk!)
 * Visit Chicago ✅ (7/1/21)
 * Find a favorite restaurant in the Bay Area
 * Embrace California culture by unironically asking for more kale
