@@ -7,6 +7,8 @@ tags:
 ---
 ![](/static/img/pxl_20211106_233929375.mp.jpg "Russian Ridge Open Space Preserve")
 
+
+
 In many ways 2021 was a year of getting settled. 2020 was a year full of changes for me–a new job, a new city, and of course COVID. 2021 was a year of getting more comfortable with these changes, and it seems all have persisted. Not only did I not move jobs or cities, COVID continues to have a firm grasp on my daily life. But that didn’t stop 2021 from being a year full of great surprises.
 
 Before I dive into the specifics, I’d like to revisit the resolutions I had for this year from my previous year in review post. I accomplished every one! In summary, I wanted to do the following: 
@@ -83,3 +85,11 @@ Despite maintaining my existing hobbies, I’ve also been venturing into new act
 One thing I called out in last year’s post is that all of the change going on in my life during the pandemic was actually a good thing. Despite the pandemic being the worst time to make big life adjustments, it prevented the year from feeling stagnant as we all put things on hold and cautiously tried to navigate our new lives. This year didn’t have the sweeping changes of 2020, but it hardly felt stagnant. And I’m incredibly grateful for that. This year saw amazing adventures, surprises, thrills, and love. It saw jam packed weekends and even many eventful weeknights. It saw some of the most travel of any year on record for me. And it has had some of the most fulfilling and life affirming moments I could ask for. When Google announced work from home for an entire year two days after I moved out of Chicago, I asked if they would turn the moving trucks around. Google said no. Although it stung in the moment, I will forever be grateful for their decision. Because without it, this post detailing my first full calendar year in the Bay would have never been written. And what a pity that would be.
 
 ![](/static/img/fotojet.jpg)
+
+![](/static/img/fotojet-1-.jpg)
+
+![](/static/img/fotojet-2-.jpg)
+
+![](/static/img/fotojet-3-.jpg)
+
+![](/static/img/fotojet-4-.jpg)
