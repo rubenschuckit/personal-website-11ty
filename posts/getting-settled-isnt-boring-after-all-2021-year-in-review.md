@@ -43,6 +43,10 @@ With vaccines in our arms, we started exploring even further making 2021 a year 
 
 This year saw my first Googleversary, replete with celebration! Lauren threw together an amazing party that even my sister was able to join (she was visiting the Bay to look at law schools and decided to go to NYU over Berkeley, oh well…). Not only was there delicious food, Lauren made spectacular cupcakes with all of my orgs logos–Google, Shopping, and Ads. The party surpassed even the highest expectations I could possibly have, and I would have never expected something so amazing for my Googleversary a year before.
 
+![](/static/img/pxl_20210414_025837973.jpg)
+
+![](/static/img/pxl_20210414_025436898.jpg "The Design Phase")
+
 Outside of the celebration, work continues to be solid. The offices finally opened again, although attendance is not mandatory yet (hard to predict if RTO is in the pipeline for 2022). I’ve finally been able to meet my manager and teammates in person and munch on the delicious Google food. The office, especially for my team, remains quite sparse. We’re moving buildings in 2022, and I figure many are waiting for that to return in a more consistent capacity. But as we make our way through the current case spike, I’m hoping the office will become naturally more bustling. 
 
 After over a year on my team, I’ve definitely started getting the hang of things more. I’m not as intimidated by evaluating experiment metrics. And more importantly, I’m more comfortable digging in and examining what’s going on when the metrics don’t move as we expect. As I mentioned in last year’s post, Google’s tools are completely proprietary and unique. But after over a year of exposure, I feel I’m definitely able to move faster. This year also saw me loaned to a sister team for half of my time, and I’ve absolutely loved the work there. It’s been great to start on a new team with Google’s tool knowledge already in hand. I’ve enjoyed the work on that team immensely, and will be sad to ramp off of it early next year. But excited for what exciting new projects Shopping Ads has in store. 
