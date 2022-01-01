@@ -5,7 +5,7 @@ summary: A year of getting settled still had plenty of fun changes
 tags:
   - post
 ---
-![](/static/img/pxl_20211106_233929375.mp.jpg)
+![](/static/img/pxl_20211106_233929375.mp.jpg "Russian Ridge Open Space Preserve")
 
 In many ways 2021 was a year of getting settled. 2020 was a year full of changes for me–a new job, a new city, and of course COVID. 2021 was a year of getting more comfortable with these changes, and it seems all have persisted. Not only did I not move jobs or cities, COVID continues to have a firm grasp on my daily life. But that didn’t stop 2021 from being a year full of great surprises.
 
