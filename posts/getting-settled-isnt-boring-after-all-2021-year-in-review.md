@@ -65,7 +65,11 @@ Despite the crazy airspace, I can’t think of a more beautiful place to fly. Th
 
 My viola is also still getting plenty of use. Lauren is a skilled pianist, and we’ve recorded one sonata so far. I’ve also recorded the viola part for multiple virtual Google Symphony pieces. Despite some being recorded just a couple months into the year, the video editors are still hard at work stitching it all together. I can’t exaggerate how excited I am to watch it. But alas, I must be patient. 
 
+![](/static/img/269767103_659616051843249_4576792460582211165_n.png)
+
 Despite maintaining my existing hobbies, I’ve also been venturing into new activities. Lauren is an accomplished biker and helped me pick out and buy my first road bike. Since getting my new bike, we’ve biked all across the Bay including in Carmel, Oakland, East Bay, and San Francisco. I’ve been having a lot of fun biking with her all over, and I intend to keep it up next year. 
+
+![](/static/img/pxl_20211004_181341044.jpg)
 
 # Resolutions
 
