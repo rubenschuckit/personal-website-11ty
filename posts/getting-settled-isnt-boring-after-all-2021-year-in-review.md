@@ -61,6 +61,10 @@ I fly out of Palo Alto's tiny airport. It has all sorts of interesting facts abo
 
 Despite the crazy airspace, I can’t think of a more beautiful place to fly. There’s gorgeous mountains flanking the valley, and flying over San Francisco truly highlights the beauty that makes the Bay Area so special. I can’t wait to fly more next year, especially for some further trips to Monterey and Napa. It’s also a big plus that almost every day it’s sunny and clear (at least at the southern part of the peninsula–sorry San Francisco!). 
 
+<iframe width="420" height="315"\
+src="https://www.youtube.com/embed/i0bS7jjRjo8">\
+</iframe>
+
 My viola is also still getting plenty of use. Lauren is a skilled pianist, and we’ve recorded one sonata so far. I’ve also recorded the viola part for multiple virtual Google Symphony pieces. Despite some being recorded just a couple months into the year, the video editors are still hard at work stitching it all together. I can’t exaggerate how excited I am to watch it. But alas, I must be patient. 
 
 Despite maintaining my existing hobbies, I’ve also been venturing into new activities. Lauren is an accomplished biker and helped me pick out and buy my first road bike. Since getting my new bike, we’ve biked all across the Bay including in Carmel, Oakland, East Bay, and San Francisco. I’ve been having a lot of fun biking with her all over, and I intend to keep it up next year. 
