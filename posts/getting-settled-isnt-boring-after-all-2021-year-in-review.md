@@ -77,7 +77,7 @@ Despite maintaining my existing hobbies, I’ve also been venturing into new act
 
 * Turn 26
 * Bike a century 
-* Visit national parks
+* Visit 3 national parks 
 * Maintain my friendships and make new ones
 * Visit Chicago and NYC
 * Travel internationally (London and/or Israel)
