@@ -1,6 +1,6 @@
 ---
 title: Getting Settled Isn't Boring After All - 2021 Year in Review
-date: 2022-01-01T00:24:38.235Z
+date: 2021-12-31T00:24:38.235Z
 summary: A year of getting settled still had plenty of fun changes
 tags:
   - post
@@ -16,7 +16,7 @@ Before I dive into the specifics, I’d like to revisit the resolutions I had fo
 * Get vaccinated for (against?) COVID ✅ (4/13/21 - my Googleversary!)
 * Sit at my desk on the Google campus ✅ (7/12/21 - My building is under construction, but I sat at a desk!)
 * Visit Chicago ✅ (7/1/21, 8/12, 12/26)
-* Find a favorite restaurant in the Bay Area (Asa)
+* Find a favorite restaurant in the Bay Area ([Asa](https://g.page/AsaRestaurantLosAltos?share)) ✅
 * Embrace California culture by unironically asking for more kale ✅
 * Maintain my current friendships all over the country and make new ones (so wholesome!) ✅ (7/6/21) Marking this complete after visiting four states outside of CA and seeing countless friends!
 * Turn 25 ✅ (1/10/21)
@@ -25,7 +25,7 @@ I started the year off strong, ten days in accomplishing a birthday. From there,
 
 # COVID
 
-COVID continues to be a wildcard. I’m grateful to have been vaccinated earlier this year after the uncertainty of having a viable vaccine at all. But I didn’t expect to have to get a 3rd dose, which I was fortunate to receive at the end of the year. The vaccines, thankfully, have remained quite effective as COVID has evolved. But COVID’s mutations are prolonging the pandemic even longer than I had imagined. After lab studies confirmed spectacular efficacy of the initial mRNA vaccines, many experts predicted a drawdown of the pandemic. One in which cases would recede and only flare up in isolated pockets of unvaccinated communities. Rather, COVID continues to churn out variants that are more infectious than the last and has kept caseloads high all across the country (in fact, at lofty new records as of writing this) . 
+COVID continues to be a wildcard. I’m grateful to have been vaccinated earlier this year after the uncertainty of having a viable vaccine at all. But I didn’t expect to have to get a 3rd dose, which I was fortunate to receive at the end of the year. The vaccines, thankfully, have remained quite effective as COVID has evolved. But COVID’s mutations are prolonging the pandemic even longer than I had imagined. After lab studies confirmed spectacular efficacy of the initial mRNA vaccines, many experts predicted a drawdown of the pandemic. One in which cases would recede and only flare up in isolated pockets of unvaccinated communities. Rather, COVID continues to churn out variants that are more infectious than the last and has kept caseloads high all across the country (in fact, at lofty new records as of writing this). 
 
 Here’s hoping that this year the vaccines remain effective against whatever changes COVID throws at us. And here’s hoping that, after therapies have remained elusive this year, some new therapies help keep hospitalizations low even if cases stay high. After two years of this, we’re all learning how to live with the virus. And I imagine this year will be the same. As I’m writing this, we’re in the middle of the Omicron surge. Fingers crossed that this doesn’t overwhelm the healthcare system, but seeing that cases are more manageable, here’s hoping this is the first step in the transition from deadly pandemic to controllable endemic. 
 
@@ -39,7 +39,7 @@ Against the dark backdrop of Castro Street that night, Lauren exemplified someth
 
 With vaccines in our arms, we started exploring even further making 2021 a year of travel. We traveled to Los Angeles, San Diego, Seattle, Dallas, Austin, Chicago, and Hawaii. And without Lauren I went to Cape Cod, Boston, Columbus, and Indianapolis. 
 
-2021 certainly made up for the zero vacation travel of 2020. 
+2021 certainly made up for the little to no vacation travel of 2020. 
 
 # Work
 
