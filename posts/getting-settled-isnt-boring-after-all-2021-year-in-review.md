@@ -45,7 +45,7 @@ This year saw my first Googleversary, replete with celebration! Lauren threw tog
 
 ![](/static/img/pxl_20210414_025837973.jpg)
 
-![](/static/img/pxl_20210414_025436898.jpg "The Design Phase")
+![](/static/img/pxl_20210414_025436898-1-.jpg "The Design Phase")
 
 Outside of the celebration, work continues to be solid. The offices finally opened again, although attendance is not mandatory yet (hard to predict if RTO is in the pipeline for 2022). I’ve finally been able to meet my manager and teammates in person and munch on the delicious Google food. The office, especially for my team, remains quite sparse. We’re moving buildings in 2022, and I figure many are waiting for that to return in a more consistent capacity. But as we make our way through the current case spike, I’m hoping the office will become naturally more bustling. 
 
