@@ -71,7 +71,7 @@ Despite maintaining my existing hobbies, I’ve also been venturing into new act
 
 ![](/static/img/pxl_20211004_181341044.jpg)
 
-# Resolutions
+# Resolutions and Conclusions
 
 * Turn 26
 * Bike a century 
@@ -81,3 +81,5 @@ Despite maintaining my existing hobbies, I’ve also been venturing into new act
 * Travel internationally (London and/or Israel)
 
 One thing I called out in last year’s post is that all of the change going on in my life during the pandemic was actually a good thing. Despite the pandemic being the worst time to make big life adjustments, it prevented the year from feeling stagnant as we all put things on hold and cautiously tried to navigate our new lives. This year didn’t have the sweeping changes of 2020, but it hardly felt stagnant. And I’m incredibly grateful for that. This year saw amazing adventures, surprises, thrills, and love. It saw jam packed weekends and even many eventful weeknights. It saw some of the most travel of any year on record for me. And it has had some of the most fulfilling and life affirming moments I could ask for. When Google announced work from home for an entire year two days after I moved out of Chicago, I asked if they would turn the moving trucks around. Google said no. Although it stung in the moment, I will forever be grateful for their decision. Because without it, this post detailing my first full calendar year in the Bay would have never been written. And what a pity that would be.
+
+![](/static/img/fotojet.jpg)
