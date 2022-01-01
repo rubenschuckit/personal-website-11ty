@@ -7,8 +7,6 @@ tags:
 ---
 ![](/static/img/pxl_20211106_233929375.mp.jpg "Russian Ridge Open Space Preserve")
 
-
-
 In many ways 2021 was a year of getting settled. 2020 was a year full of changes for me–a new job, a new city, and of course COVID. 2021 was a year of getting more comfortable with these changes, and it seems all have persisted. Not only did I not move jobs or cities, COVID continues to have a firm grasp on my daily life. But that didn’t stop 2021 from being a year full of great surprises.
 
 Before I dive into the specifics, I’d like to revisit the resolutions I had for this year from my previous year in review post. I accomplished every one! In summary, I wanted to do the following: 
@@ -69,7 +67,7 @@ My viola is also still getting plenty of use. Lauren is a skilled pianist, and w
 
 ![](/static/img/269767103_659616051843249_4576792460582211165_n.png)
 
-Despite maintaining my existing hobbies, I’ve also been venturing into new activities. Lauren is an accomplished biker and helped me pick out and buy my first road bike. Since getting my new bike, we’ve biked all across the Bay including in Carmel, Oakland, East Bay, and San Francisco. I’ve been having a lot of fun biking with her all over, and I intend to keep it up next year. 
+In addition to maintaining my existing hobbies, I’ve also been venturing into new activities. Lauren is an accomplished biker and helped me pick out and buy my first road bike. Since getting my new bike, we’ve biked all across the Bay including in Carmel, Oakland, East Bay, and San Francisco. I’ve been having a lot of fun biking with her all over, and I intend to keep it up next year. 
 
 ![](/static/img/pxl_20211004_181341044.jpg)
 
