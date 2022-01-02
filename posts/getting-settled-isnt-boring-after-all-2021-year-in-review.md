@@ -61,7 +61,7 @@ I fly out of Palo Alto's tiny airport. It has all sorts of interesting facts abo
 
 Despite the crazy airspace, I can’t think of a more beautiful place to fly. There’s gorgeous mountains flanking the valley, and flying over San Francisco truly highlights the beauty that makes the Bay Area so special. I can’t wait to fly more next year, especially for some further trips to Monterey and Napa. It’s also a big plus that almost every day it’s sunny and clear (at least at the southern part of the peninsula–sorry San Francisco!). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i0bS7jjRjo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: calc(100vw / 1.77);"></iframe>
+<iframe src="https://www.youtube.com/embed/i0bS7jjRjo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%; height: calc(100vw / 1.77);"></iframe>
 
 My viola is also still getting plenty of use. Lauren is a skilled pianist, and we’ve recorded one sonata so far. I’ve also recorded the viola part for multiple virtual Google Symphony pieces. Despite some being recorded just a couple months into the year, the video editors are still hard at work stitching it all together. I can’t exaggerate how excited I am to watch it. But alas, I must be patient. 
 
