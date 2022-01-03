@@ -63,7 +63,7 @@ Despite the crazy airspace, I can’t think of a more beautiful place to fly. Th
 
 
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0"><iframe src="https://www.youtube.com/embed/i0bS7jjRjo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe src="https://www.youtube.com/embed/i0bS7jjRjo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen"></iframe></div>
 
 
 
