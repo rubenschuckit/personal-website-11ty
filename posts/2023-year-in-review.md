@@ -28,7 +28,7 @@ She also made a delicious "trick" cake that had a surprise in the middle. I enjo
 For Lauren's birthday, we ate at her favorite Indian restaurant and then went to an escape room. We ended up escaping with only one second to spare. The faciliatotrs said they've never seen that before! But hey, a win is a win!  
 
 # COVID 
-Each year that it's been around, I've commented on COVID during the preceeding year. Last year I got it...and this year I didn't! 
+Each year that it's been around, I've commented on COVID during the preceeding year. Last year I got it, and...this year I didn't! 
 
 We really do seem to be emerging from the pandemic, which is good news. I certainly wore my mask less and less this past year (still putting it on in super crowded locations) and managed to not contract it. 
 
@@ -43,6 +43,17 @@ The home is a spectacular find, with all credit going to Lauren. It's a prime lo
 
 The move was pretty smooth. We had super friendly and efficient movers who did a great job, and Lauren was instrumental in helping me pack. I still remember our first night when Lauren, her sisters, their boyfriends, and I sat on the floor in the living room eating pizza. It was nice to forget about all the unpacking to be done ahead. 
 
+# The First 1/3 of the Year
+In March, a happy coincidence occurred. My friend Eli was trasniting through the Bay and added a long layover for his flight from Taipei allowing him to stay with me. Meanwhile, my other friend Stella was visiting the Bay for an academic conference. So we got the gang back together! The last time the three of us were together was in November 2019 when Eli and I took a trip to Boston to visit Stella at MIT. 
+
+The next month I paid homage to my college days by going to St. Louis for my 5th Reunion. It was fun to take Lauren there and show her the sights. 
+
+There was a little weather, however, in the form of a Torando Watch. The last time I experienced a Tornado Watch in St. Louis was the first week of freshman year, so I definitely succeeded at reliving my early college days, which--let's face it--is what Reunion is all about anyway. 
+
+# The Second 1/3 of the Year
+This blog post has gone on long enough--it's time for a new country! 
+
+Lauren's and my first international trip tested our packing skills to the max. 
 
 
 
