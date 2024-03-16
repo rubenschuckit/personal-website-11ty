@@ -43,17 +43,37 @@ The home is a spectacular find, with all credit going to Lauren. It's a prime lo
 
 The move was pretty smooth. We had super friendly and efficient movers who did a great job, and Lauren was instrumental in helping me pack. I still remember our first night when Lauren, her sisters, their boyfriends, and I sat on the floor in the living room eating pizza. It was nice to forget about all the unpacking to be done ahead. 
 
-# The First 1/3 of the Year
+# Winter
 In March, a happy coincidence occurred. My friend Eli was trasniting through the Bay and added a long layover for his flight from Taipei allowing him to stay with me. Meanwhile, my other friend Stella was visiting the Bay for an academic conference. So we got the gang back together! The last time the three of us were together was in November 2019 when Eli and I took a trip to Boston to visit Stella at MIT. 
 
-The next month I paid homage to my college days by going to St. Louis for my 5th Reunion. It was fun to take Lauren there and show her the sights. 
+From vsiting college friends in the Bay to visiting the college campus in St. Louis. Lauren and I travelled to St. Louis for my 5th Reunion. It was fun to take Lauren there and show her the sights. 
 
-There was a little weather, however, in the form of a Torando Watch. The last time I experienced a Tornado Watch in St. Louis was the first week of freshman year, so I definitely succeeded at reliving my early college days, which--let's face it--is what Reunion is all about anyway. 
+There was a bit weather, it turned out, in the form of a Torando Warning. The last time I experienced a Tornado Warning in St. Louis was the first week of freshman year, so I definitely succeeded at reliving my early college days, which--let's face it--is what Reunion is all about anyway. 
 
-# The Second 1/3 of the Year
-This blog post has gone on long enough--it's time for a new country! 
+# Spring
+Lauren's and my first international trip of the year tested our packing skills to the max since it was actually three trips in one.
 
-Lauren's and my first international trip tested our packing skills to the max. 
+We first made our way to Palm Springs for my family vacation for the first week (very warm), then we went to Hawaii (even warmer) for the second week, before finally getting to Australia and New Zealand (cold).
+
+And, if you can believe it, we both only packed a carry-on sized bag. Now that I've proven to myself that I can travel to multiple climates over multiple weeks with a small bag, I finally bought my first checked bag and I have no regrets. 
+
+Australia was probably my favorite country we visited this year (although I promise it's still worth reaeding on about my other travels!). I found Australia felt culturally similar to America, wich was surprising since I expected it to more closely align with the UK. The people were friendly and the cities were captiviating. 
+
+We started in Melbourne. From the outset, I can't emphasize enough that any trip you take to Australia _must_ include a tripe to Melbourne. Much like Chicago, it's not its country's biggest city. But it's full of exciting things to do, good urban scenery, and is a bit more relaxed than a country's hub city. 
+
+Australia is the birthplace of Avocado Toast, a tasty treat that I love, so the first meal on our first morning in Melbourne was fittingly a delicious Avocado Toast. From there we gained a top-level view of the city by ascending 1,000 feet to the Melbourne Skydeck before walking through some shopping Arcades and the National Gallery. 
+
+One thing that struck me about Australian cities is that there business district (what they call the [CBD](https://en.wikipedia.org/wiki/Melbourne_central_business_district)) is that they are incredibly lively at night. Some American cities certainly get a lot of action after work lets out, but traditionally it's in a part of the city outside of where the offices are. Not so in Austrlia. 
+
+Lauren was able to satisfy her interest in prisons (try not to read too much into that) by touring many historical British prisons in Australia. I also got to satisfy my interest in aviation since we passed a storefront that allowed anyone to sign up for an hour in a Boeing 737 simulator. 
+
+But what had to be a highlight of the entire trip, was our drive 40 miles outside of Melbourne to the Moonlit  Sanctuary Wildlife Conservation Park. There we did a small group tour of the sanctuary at night with a specialist. It was there we got to get up close and personal with Australia's most-notable animals. Our guide was quick to point out that the animals were free to come and go to the sanctuary as they pleased, but most were long-time residents and were therefore quite friendly and comfortable around humans. They'd eat right out of your hands and let you pet them no problem! We also got to meet a blind kangaroo who--thanks to the unwavering nightly routine--knew exactly where to go when she heard us for some yummy snacks! 
+
+Next we hopped on a plane for the short 90-minute flight to Sydney. Sydney was absolutely beautiful, and although both Sydney and Melbourne are nestled along a bay, it's Sydney who really embraces their waterfront. There was a bit of a snafu with the hotel--it was overbooked. After sitting in the lobby for a couple of hours, they fianlly rebooked us at a different hotel that wasn't as nice. But when we went back to the original hotel the next day, they upgraded us to a suite and gave us a free night! All was forgiven. 
+
+Despite the lack of sleep that first night, our first morning was the perfect introduction to Sydney. Lauren and I did the Sydney Bridge climb where you get to climb to the top of the iconic Sydney Harbour Bridge. As we made our way up the interior side truss, Lauren and I got our first glimpses at the iconic harbour and opera house. And it was spectacular! The weather was absolutely perfect and it marked a perfect introduction to the city. 
+
+Just like in Melbourne, we got a bit outside of the city too. We took a train two hours west to the Blue Mountains. For those spending 
 
 
 
