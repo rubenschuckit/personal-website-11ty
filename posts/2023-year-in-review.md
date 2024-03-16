@@ -73,7 +73,15 @@ Next we hopped on a plane for the short 90-minute flight to Sydney. Sydney was a
 
 Despite the lack of sleep that first night, our first morning was the perfect introduction to Sydney. Lauren and I did the Sydney Bridge climb where you get to climb to the top of the iconic Sydney Harbour Bridge. As we made our way up the interior side truss, Lauren and I got our first glimpses at the iconic harbour and opera house. And it was spectacular! The weather was absolutely perfect and it marked a perfect introduction to the city. 
 
-Just like in Melbourne, we got a bit outside of the city too. We took a train two hours west to the Blue Mountains. For those spending 
+Just like in Melbourne, we got a bit outside of the city too. We took a train two hours west to the Blue Mountains. For those spending more than a few days in Sydney, I highly recommend it. The scenery, hiking, and overlooks are absolutely stunning. 
+
+Back in the city we took in more sights and history, a quick lunch at the Google office, and before we knew it, it was time to go to New Zealand. 
+
+New Zealand required some flexibility. We left Sydney in the morning bound for Queenstown in the South Island via Auckland on the North Island. The 3-hour flight across the Tasman was uneventful, but the storms near Queenstown were growing. On our flight to Queenstown we began our initial descent, but about 15 min after starting our way down, the engines spooled up and we started climbing agian. I had a feeling south was up. Sure enough, the pilot made an announcement that the conditions on the ground were so windy, planes were unable to land. The flight in front of us had attempted three approaches, and if the weather didn't clear up in the next 15 minutes, we were going to turn back to Auckland. 
+
+Fortunately within those 15 minutes, the plane in front of us made a successful landing, and so we were going to give it a shot too. As we made our way to the ground, riding some big bumps along the way, we finally and successfully landed. But that wasn't the end of the story. We were planning on taking another small flight to Milford Sound to take in the fjord. Alas, we had spent our luck on the flight to Queenstown so we had to replan at soon as we got to the airport.
+
+It was stressful to have to pivot at the last second, but well worth it. Lauren found a private guide who was willing to take us around Queenstown in 12 hours notice, and he turned out to be amazing! 
 
 
 
