@@ -155,4 +155,8 @@ For next year I think I'll take a break from the resolutions and see where the y
 
 Since I'm well into the new year already, I can at least tell you that there's plenty of fun things in store for next year's post. I hope you can read about them sooner than you could read about them this year. But it's also next year that I hope to share many of the moments that comprise the post with you all in person, so hopefully the wait for the documented version doesn't feel as long!
 
+Oh, and for a special treat for your patience, below is this year's calendar (upgraded as described earlier)! But feel free to scroll past it if you hate spoilers!
+
+![image](/static/img/posts/2023/calendar_new.jpg)
+
 
