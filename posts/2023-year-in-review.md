@@ -157,6 +157,6 @@ Since I'm well into the new year already, I can at least tell you that there's p
 
 Oh, and for a special treat for your patience, below is this year's calendar (upgraded as described earlier)! But feel free to scroll past it if you hate spoilers!
 
-![image](/static/img/posts/2023/calendar_new.jpg)
+<img src="/static/img/posts/2023/calendar_new.jpg" width="400"/>
 
 
