@@ -27,7 +27,7 @@ She also made a delicious "trick" cake that had a surprise in the middle. I enjo
 
 For Lauren's birthday, we ate at her favorite Indian restaurant and then went to an escape room. We ended up escaping with only one second to spare. The facilitators said they've never seen that before! But hey, a win is a win!  
 
-![image](/static/img/posts/2023/lauren-bday.jpeg)
+<img src="/static/img/posts/2023/lauren-bday.jpeg" width="400">
 
 # COVID 
 Each year that it's been around, I've commented on COVID during the preceding year. Last year I got it, and...this year I didn't! 
