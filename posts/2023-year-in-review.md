@@ -14,7 +14,7 @@ The calendar was met with some skepticism from outside observers. It wasn't attr
 
 In fact, the calendar proved to be so popular that it is getting a big upgrade for 2024. Stay tuned to the end to learn more about that.
 
-![image](/static/img/posts/2023/calendar.jpeg)
+![image](/static/img/posts/2023/calendar.jpg)
 
 # And so it begins
 The universe and I have decided to group most annual traditions at the start of the calendar year. The year always starts off strong and busy with the first month and a half containing my birthday, my anniversary, and Lauren's birthday. 
@@ -48,9 +48,9 @@ The move was pretty smooth. We had super friendly and efficient movers who did a
 # Spring
 In March, a happy coincidence occurred. My friend Eli was connecting through the Bay and added a long layover for his flight from Taipei. Meanwhile, my other friend Stella was visiting the Bay for an academic conference. So we got the gang back together! The last time the three of us were together was in November 2019 when Eli and I took a trip to Boston to visit Stella at MIT. 
 
-From visiting college friends in the Bay, next was visiting the college campus in St. Louis. Lauren and I traveled to St. Louis for my 5th Reunion. It was fun to take Lauren there and show her the sights. 
+From visiting college friends in the Bay, next was visiting the college campus in St. Louis. Lauren and I traveled to St. Louis for my 5th reunion. It was fun to take Lauren there and show her the sights. 
 
-There was a bit weather, it turned out, in the form of a Tornado Warning. The last time I experienced a Tornado Warning in St. Louis was the first week of freshman year, so I definitely succeeded at reliving my early college days, which—let's face it—is what Reunion is all about anyway. 
+There was a bit of weather, it turned out, in the form of a Tornado Warning. The last time I experienced a tornado warning in St. Louis was the first week of freshman year, so I definitely succeeded at reliving my early college days, which—let's face it—is what reunion is all about anyway. 
 
 ![image](/static/img/posts/2023/stl-2023.png)
 
@@ -64,9 +64,9 @@ Australia was probably my favorite country we visited this year (although I prom
 
 We started in Melbourne. From the outset, I can't emphasize enough that any trip you take to Australia _must_ include a tripe to Melbourne. Much like Chicago, it's not its country's biggest city. But it's full of exciting things to do, good urban scenery, and is a bit more relaxed than a country's hub city. 
 
-Australia is the birthplace of Avocado Toast, a tasty treat that I love, so the first meal on our first morning in Melbourne was fittingly a delicious Avocado Toast. From there we gained a top-level view of the city by ascending 1,000 feet to the Melbourne Skydeck before walking through some shopping Arcades and the National Gallery. 
+Australia is the birthplace of avocado toast, a tasty treat that I love, so the first meal on our first morning in Melbourne was fittingly a delicious avocado toast. From there we gained a top-level view of the city by ascending 1,000 feet to the Melbourne Skydeck before walking through some shopping Arcades and the National Gallery. 
 
-One thing that struck me about Australian cities is that there business districts (what they call the [CBD](https://en.wikipedia.org/wiki/Melbourne_central_business_district)) are  incredibly lively at night. Some American cities certainly get a lot of action after work lets out, but traditionally it's in a part of the city outside of where the offices are. Not so in Australia. 
+One thing that struck me about Australian cities is that their business districts (what they call the [CBD](https://en.wikipedia.org/wiki/Melbourne_central_business_district)) are  incredibly lively at night. Some American cities certainly get a lot of action after work lets out, but traditionally it's in a part of the city outside of where the offices are. Not so in Australia. 
 
 Separately, Lauren was able to satisfy her interest in prisons (try not to read too much into that) by touring many historical British prisons in Australia and I was able to satisfy my interest in aviation by getting to fly in a  737 simulator!
 
@@ -88,9 +88,9 @@ New Zealand required some flexibility. We left Sydney in the morning bound for Q
 
 Fortunately within those 15 minutes, the plane in front of us made a successful landing, and so we were going to give it a shot too. As we made our way to the ground, riding some big bumps along the way, we successfully landed. But that wasn't the end of the story. We were planning on taking another small flight to Milford Sound to take in the fjord. Alas, we had spent our luck on the flight to Queenstown so we had to replan at soon as we got to the airport.
 
-It was stressful to have to pivot at the last second, but well worth it. Lauren found a private guide who was willing to take us around Queenstown in 12 hours notice, and he turned out to be amazing! We started the day by soaking in Onsen Hot Pools and then I actually got to go flying out of Wanaka Airport and admire the terrain from above before seeing the beauty from below. 
+It was stressful to have to pivot at the last second, but well worth it. Lauren found a private guide who was willing to take us around Queenstown on 12 hours notice, and he turned out to be amazing! We started the day by soaking in onsen hot pools and then I actually got to go flying out of Wanaka Airport and admire the terrain from above before seeing the beauty from below. 
 
-From Queenstown we went to Auckland. Auckland is skippable. It's sort of a quiet business district, and although the views are pretty along its Bay, when compared to the rest of New Zealand's majestic lands, it's not much. Near the university is a bit more lively and interesting though. We ended doing the day trip to see the Hobbiton and the Waitomo Glowworm Caves, which was pretty fun. Neither Lauren nor I are huge fans of Lord of the Rings, but the story of how Peter Jackson's picked _that_ farm in New Zealand is interesting enough on its own (look it up!). The glowworms were also quite spectacular. 
+From Queenstown we went to Auckland. Auckland is skippable. It's sort of a quiet business district, and although the views are pretty along its bay, when compared to the rest of New Zealand's majestic lands, it's not much. Near the university is a bit more lively and interesting though. We ended up doing the day trip to see the Hobbiton and the Waitomo Glowworm Caves, which was pretty fun. Neither Lauren nor I are huge fans of Lord of the Rings, but the story of how Peter Jackson picked _that_ farm in New Zealand is interesting enough on its own (look it up!). The glowworms were also quite spectacular. 
 
 ![image](/static/img/posts/2023/nz.png)
 
