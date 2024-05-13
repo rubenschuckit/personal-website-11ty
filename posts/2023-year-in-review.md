@@ -15,6 +15,7 @@ The calendar was met with some skepticism from outside observers. It wasn't attr
 In fact, the calendar proved to be so popular that it is getting a big upgrade for 2024. Stay tuned to the end to learn more about that.
 
 ![image](/static/img/posts/2023/calendar.jpg)
+Image intentionally blurred 😛
 
 # And so it begins
 The universe and I have decided to group most annual traditions at the start of the calendar year. The year always starts off strong and busy with the first month and a half containing my birthday, my anniversary, and Lauren's birthday. 
