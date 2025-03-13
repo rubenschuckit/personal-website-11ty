@@ -1,5 +1,5 @@
 ---
-title: "Half a Decade of Posts!: 2024 Year in Review"
+title: "Half a Decade of Posts! 2024 Year in Review"
 date: 2025-02-02
 summary: Somehow the momentum of last year continued!
 tags:
@@ -11,7 +11,7 @@ Before I get to the events of 2024 (and there’s a lot to cover\!) I'm somewhat
 
 # Engage And Married\!
 
-The sections of this blog won’t necessarily be in chronological order, but it's hard not to start the year in review with *this* section. On a chilly evening in Carmel, CA (not to be confused with my hometown of a different pronunciation: Carmel, IN), Lauren and I became engaged\! After over three years of an ever growing and strengthening relationship, we decided to get married\! It’s crazy to think I began writing these posts even before I met Lauren, though she does feature prominently in every post since. After the engagement, our lives quickly became dominated by planning the wedding. 
+The sections of this blog won’t necessarily be in chronological order, but it's hard not to start the year in review with *this* section. On a chilly evening in Carmel, CA (not to be confused with my hometown of a different pronunciation), Lauren and I became engaged\! After over three years of an ever growing and strengthening relationship, we decided to get married\! It’s crazy to think I began writing these posts even before I met Lauren, though she does feature prominently in every post since. After the engagement, our lives quickly became dominated by planning the wedding. 
 
 Planning a wedding is an interesting ordeal because most people have never thrown any sort of event before, let alone one with so many guests. The foundational pieces fell into place fairly early: the venue, the officiant, and the date. But filling in the gaps between all of those pieces can be a little daunting. Perhaps the most daunting aspect is not knowing what may be missing or overlooked, especially since we elected to plan the wedding primarily ourselves. Fortunately, thanks in large part to Lauren’s attentiveness, when the wedding weekend did finally arrive, it went quite smoothly and magically\! 
 
@@ -19,14 +19,16 @@ As I mentioned in my reception toast, a wedding is such a unique event not merel
 
 Now that I'm on the other side, I am privileged to be able to look back on my wedding weekend as smooth and perfect. The ceremonies, weather, company, festivities, and everything else you can imagine all went as smoothly as one could hope for. The only question is: Now that I don’t have to plan a wedding next year, what will I do with all of the extra time? 
 
+<img src="/static/img/posts/2025/wedding.png" width=500>
+
 # Travels
 The year may have been dominated by the wedding, but Laruen and I still managed to get a healthy dose of travel in. No surprises there\! 
 
-The year began in January with a visitior of our own! My grandmather (or, as she is known to me, Nana) visited from Indiana and I got to show her around the Bay Area. Her first time here! My sister Leah also joined the trip.
+The year began in January with a visitior of our own! My grandmather (or, as she is known to me, Nana) visited from Indiana and I got to show her around the Bay Area. Her first time here! My sister Leah also joined the trip. I had a blast showing them around.
 
 <img src="/static/img/posts/2025/nana.png" width=500>
 
-The first trip Lauren and I took was to pursue a classic cold-weather activity. I went skiing for the first time in Tahoe with Lauren and two of our friends from the Bay. I had never been skiing before, and I had a blast\! The lesson was fortunately enough to get started on and our conservative selection of slopes meant nothing too bad happened. Though there were certainly a few tumbles into the soft snow\!
+Once my family left the Bay, Lauren and I took our first trip of the year to pursue a classic cold-weather activity. I went skiing for the first time in Tahoe with Lauren and two of our friends from the Bay. I had never been skiing before, and I had a blast\! The lesson was fortunately enough to get started on and our conservative selection of slopes meant nothing too bad happened. Though there were certainly a few tumbles into the soft snow\!
 
 <img src="/static/img/posts/2025/tahoe.png" width=500>
 
@@ -64,11 +66,11 @@ In December we wrapped up the year by returning to Socal for a trip to San Diego
 
 # Work
 
-Work was a bit all over the place this year, but ended on a high note. At the beginning of the year due to a rather aggressive reorg, I had to find a new team. Fortunately, I was back on stable ground soon enough with three offers inside of three weeks, and even ended the year with two additional offers. My new team is not really “new” to me, as I was previously embedded with them for 6 months in 2022 to usher through a joint initiative. The people, as I knew from working with them in the past, are phenomenal and I’ve enjoyed the new types of projects. 
+Work was a bit all over the place this year, but ended on a high note. At the beginning of the year due to a rather aggressive reorg, I had to find a new team. Fortunately, I was back on stable ground soon enough with three offers inside of three weeks, and even ended the year with two additional offers. My new team is not really “new” to me, as I was previously embedded with them for 6 months in 2022 to usher through a joint initiative. The people, as I know from working with them in the past, are phenomenal and I’ve enjoyed the new types of projects. 
 
-Working on Search has traditionally meant being particularly focussed on your team’s slice of the stack and optimizing it within a millisecond of its life. In my new role with Search reliability, I get to have a much broader perspective of the Search stack and have enjoyed being able to get a more holistic view of how things work and the freedom to insert myself in any part of in the pursuit of reliability. It’s a nice change of pace while still working in an area I have built up familiarity with over the past four years. 
+Working on Search has traditionally meant being particularly focussed on your team’s slice of the stack and optimizing it within a millisecond of its life. In my new role with Search reliability, I get to have a much broader perspective of the Search stack and have enjoyed being able to get a more holistic view of how things work and the freedom to insert myself in any part of it in the pursuit of reliability. It’s a nice change of pace while still working in an area I have built up familiarity with over the past four years. 
 
-I was also promoted\! I was especially proud of this since there was a lot going on at the beginning of the year that was out of my control, but I was still able to move to a new team and not relinquish any ground in career growth. 
+I was also promoted\! I was especially proud of this since there was a lot going on at the beginning of the year that was out of my control, but I was still able to move to a new team and not relinquish any ground in my career growth. 
 
 # AI
 
@@ -82,7 +84,7 @@ But through the hype and investment frenzy, I’ve found the discussions around 
 
 So perhaps my biggest critique of the messaging is that the one’s providing the narrative are usually the ones who have the most to gain from the success of generative AI. And these are the only voices the media amplifies, perhaps because they do in fact hold expertise in the subject and/or because what they’re saying garners so many clicks. But the path to “superintelligence” remains a bit of a mystery to me.  
 
-Researchers at Apple this year released a [paper](https://arxiv.org/pdf/2410.05229) saying that reasoning models merely answer questions they’ve already seen in their training data. Adding irrelevant details to a question it could previously answer causes the model to quickly go awry. Another promise of generative AI is that it will replace workers any day now. I suspect this is a repeated talking point for two reasons. One: A model that can perform human-level tasks represents a breakthrough that has only been dreamed of in the likes of sci-fi and has captured our interest for centuries. Second: It’s easier to raise funds if you can at least *imply* that your companies’ biggest operating expenses (its people) can be moved off the payroll in a matter of time. The Economist wrote an interesting [article](https://www.economist.com/the-world-ahead/2024/11/20/there-will-be-no-immediate-productivity-boost-from-ai) stating that, at least in 2024, productivity did not increase due to AI despite the grandiose marketing claims some companies made.
+Researchers at Apple this year released a [paper](https://arxiv.org/pdf/2410.05229) saying that reasoning models merely answer questions they’ve already seen in their training data. Adding irrelevant details to a question it could previously answer causes the model to quickly go awry. Another promise of generative AI is that it will replace workers any day now. I suspect this is a repeated talking point for two reasons. One: A model that can perform human-level tasks represents a breakthrough that has only been dreamed of in the likes of sci-fi and has captured our interest for centuries. Second: It’s easier to raise funds if you can at least *imply* that your companies’ biggest operating expenses (its people) can be moved off the payroll in a matter of time. The Economist wrote an interesting [article](https://www.economist.com/the-world-ahead/2024/11/20/there-will-be-no-immediate-productivity-boost-from-ai) stating that, at least in 2024, productivity did not increase due to AI yet.
 
 At this point, you may be labelling me an AI skeptic. The truth is more nuanced than that. I think the continued progress of computing towards human-level intelligence is inevitable whether it be through LLMs or some other means. Just look at where computers were 100 years ago versus today. But the timeline of when we get there is an open question in my mind, and one that no one seems to be engaging with much, lest it interfere with fundraising rounds. But I must say, given the interest, talent, and money that is being thrown at this problem, if there is a breakthrough to be had, *it will be had*. 
 
@@ -96,8 +98,6 @@ But I could see LLMs becoming an alternative or replacement for the tried and tr
 
 # Closing Thoughts
 
-If there’s one theme I see from these reflections, it’s that the first six months of the year flies by and the second half goes by much more slowly. Not because the second half is any more boring or exciting than the first. But by the time I get to the end of the year, the first half of the year seems so distant. I don’t have any clever explanation for this, other than the passage of time is a hard thing to mentally segment. 
+If there’s one theme I see from these reflections, it’s that the first six months of the year flies by and the second half goes by much more slowly. Not because the second half is any more boring or exciting than the first. But by the time I get to the end of the year, the first half of the year seems so distant. I don’t have any clever explanation for this, other than the passage of time is a hard thing to mentally segment. As I author this post inside the new year, it certainly feels this way, though it's nice to know things will start to slowdown as the year meanders. 
 
-This year was interesting because even though we certainly did a lot of things, it was dominated by wedding planning and preparations. And as detailed above, it was certainly worth it. But perhaps it implies an easier 2025\. Or perhaps it doesn’t. The other theme I take from these posts is that life is full of surprises, setbacks, and opportunities to overcome those setbacks. 
-
-For next year, I hope to be a little more in the moment and grateful and less focussed on the negatives. A prescription like this would have seemed more platitude than sincere to past Ruben, but I see some of the virtues of it now. And this also may suggest that some personal growth can be seen through these blog pages. We’ll see\! Where this all leads is difficult to predict, but join me next year where more questions, obstacles, successes, and maybe even answers will be abound. 
+For next year, I hope to be a little more in the moment and grateful and less focussed on the negatives. I have a lot to be thankful for, and it deserves more focus. 2024 was an incredibly busy year juggling all of my existing obligations along with the exciting adventures and celebrations. It was a year dominated by wedding planning and preparations. And, as detailed above, it paid off a thousand times over. But perhaps this implies an easier 2025. Or perhaps it doesn’t. The other theme I take from these posts is that life is full of surprises, setbacks, and opportunities to overcome those setbacks. Onwards!
