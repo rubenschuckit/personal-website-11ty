@@ -28,7 +28,7 @@ She also made a delicious "trick" cake that had a surprise in the middle. I enjo
 
 For Lauren's birthday, we ate at her favorite Indian restaurant and then went to an escape room. We ended up escaping with only one second to spare. The facilitators said they've never seen that before! But hey, a win is a win!  
 
-<img src="/static/img/posts/2023/lauren-bday.jpeg" width="400">
+<img src="/static/img/posts/2023/lauren-bday.jpeg" width="400" alt="Lauren's birthday restaurant">
 
 # COVID 
 Each year that it's been around, I've commented on COVID during the preceding year. Last year I got it, and...this year I didn't! 
@@ -158,6 +158,6 @@ Since I'm well into the new year already, I can at least tell you that there's p
 
 Oh, and for a special treat for your patience, below is this year's calendar (upgraded as described earlier)! But feel free to scroll past it if you hate spoilers!
 
-<img src="/static/img/posts/2023/calendar_new.jpg" width="400"/>
+<img src="/static/img/posts/2023/calendar_new.jpg" width="400" alt="New calendar for 2024"/>
 
 

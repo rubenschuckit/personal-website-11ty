@@ -16,6 +16,7 @@
     "markdown-it-attrs": "^4.3.1"
   },
   "dependencies": {
+    "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-navigation": "^1.0.5",
     "clean-css": "^5.3.3",
     "html-minifier": "^4.0.0",

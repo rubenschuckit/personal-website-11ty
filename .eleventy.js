@@ -13,6 +13,20 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(syntaxHighlight);
 
+  const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["webp", "jpeg"],
+    widths: ["auto"],
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+    },
+    sharpOptions: {
+      animated: true
+    }
+  });
+
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
   // layout: post. If you don’t want to rewrite all of those values, just map
