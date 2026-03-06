@@ -5,17 +5,17 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.2.2",
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "luxon": "^2.5.2",
-    "markdown-it": "^14.0.0",
-    "markdown-it-anchor": "^8.6.7",
-    "markdown-it-attrs": "4.0.0"
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-attrs": "^4.3.1"
   },
   "dependencies": {
-    "@11ty/eleventy-navigation": "^0.2.0",
+    "@11ty/eleventy-navigation": "^1.0.5",
     "clean-css": "^5.3.3",
     "html-minifier": "^4.0.0",
-    "uglify-es": "^3.3.9"
+    "terser": "^5.34.0"
   }
 }

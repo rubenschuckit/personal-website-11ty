@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
-const UglifyJS = require("uglify-es");
+const Terser = require("terser");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-  
+
   eleventyConfig.addPlugin(syntaxHighlight);
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
@@ -20,8 +20,8 @@ module.exports = function (eleventyConfig) {
   // eleventyConfig.addLayoutAlias("post", "layouts/my_new_post_layout.njk");
 
   // Merge data instead of overriding
-  // https://www.11ty.dev/docs/data-deep-merge/
-  eleventyConfig.setDataDeepMerge(true);
+  // Data deep merge is the default behavior in Eleventy v1+
+  // eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addCollection("blogPosts", function (collection) {
     const posts = collection.getFilteredByTag("post");
@@ -55,18 +55,20 @@ module.exports = function (eleventyConfig) {
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function (code) {
-    let minified = UglifyJS.minify(code);
-    if (minified.error) {
-      console.log("UglifyJS error: ", minified.error);
-      return code;
+  eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (code, callback) {
+    try {
+      const minified = await Terser.minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error("Terser error: ", err);
+      // Fail gracefully.
+      callback(null, code);
     }
-    return minified.code;
   });
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-    if (outputPath.indexOf(".html") > -1) {
+    if (outputPath && outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
@@ -90,7 +92,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/");
+
+  // Passthrough copy CSS and JS assets to their respective locations in _site target
+  eleventyConfig.addPassthroughCopy({
+    "_includes/assets/css": "assets/css",
+    "_includes/assets/js": "assets/js"
+  });
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
