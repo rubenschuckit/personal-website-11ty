@@ -3,33 +3,32 @@
   <link rel="dns-prefetch" href="https://identity.netlify.com">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title or renderData.title or metadata.title }}</title>
+  <meta name="description" content="Ruben Schuckit's personal website. Software Engineer at Google (among other things).">
+  
+  <!-- Open Graph & Social Meta Tags -->
+  <meta property="og:title" content="{{ title or renderData.title or metadata.title }}">
+  <meta property="og:description" content="Ruben Schuckit's personal website. Software Engineer at Google (among other things).">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400&display=swap" rel="stylesheet">
+  
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146560321-2"></script>
-  <script>
+  <!-- TO DO: Add your G-XXXXXXXXXX Measurement ID -->
+  <!-- script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script -->
+  <!-- script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script -->
 
-    gtag('config', 'UA-146560321-2');
-  </script>
-
-  {% set css %}
-  {% include "assets/css/inline.css" %}
-  {% include "assets/css/bootstrap.css" %}
-  {% endset %}
-  <style>
-    {{css | cssmin | safe}}
-  </style>
-  {% set js %}
-  {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>
-    {{ js | jsmin | safe }}
-  </script>
+  <!-- Optimization: Load CSS as separate files rather than inline for better browser caching -->
+  <link rel="stylesheet" href="/assets/css/bootstrap.css">
+  <link rel="stylesheet" href="/assets/css/inline.css">
+  
+  <script src="/assets/js/inline.js" defer></script>
+  
   <meta content="#2d334b" name="theme-color"/>
-  <meta name="Description" content="Ruben Schuckit's personal website. Software Engineer at Google (among other things).">
 </head>
