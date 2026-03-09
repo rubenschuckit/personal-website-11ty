@@ -14,7 +14,7 @@ section: Ruben Schuckit's Website
         <source media="(min-width: 768px)" srcset="/static/img/my_picture.jpg"/>
         <img class="rounded mx-auto d-block" src="/static/img/my_picture_small.jpg" alt="Ruben Schuckit"/>
       </picture>
-      <img class="rounded d-none photo-noogler" src="/static/img/noogler.gif" alt="Noogler hat" eleventy:ignore/>
+      <img class="rounded d-none photo-noogler" src="/static/img/noogler.gif" alt="Noogler hat" eleventy:ignore onload="this.classList.add('loaded')"/>
       <div class="mt-1 p-lg-3 p-1 d-flex justify-content-between border-lg">
         <a href="https://github.com/rubenschuckit" rel="noopener" target="_blank" class="no-link-decoration">
           <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v2/icons/github.svg" alt="GitHub icon"/>

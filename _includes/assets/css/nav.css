@@ -6,12 +6,12 @@
 
 .navLink {
   color: rgba(0, 0, 0, 0.5);
-  padding-right: 0.3rem;
+  padding-right: 0.6rem;
 }
 
 a:hover {
-    text-decoration: none;
-    color: #101011b8;
+  text-decoration: none;
+  color: #101011b8;
 }
 
 .brand {
@@ -24,5 +24,6 @@ a:hover {
 }
 
 .active {
-    color: black !important; /* important so that hover color is overrided */
+  color: black !important;
+  /* important so that hover color is overrided */
 }
