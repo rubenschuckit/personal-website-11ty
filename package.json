@@ -10,7 +10,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@tinacms/cli": "^2.1.9",
     "@types/node": "^25.3.5",
-    "luxon": "^2.5.2",
+    "luxon": "^3.7.2",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",
     "markdown-it-attrs": "^4.3.1"
