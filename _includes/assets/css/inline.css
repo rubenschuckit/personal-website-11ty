@@ -1,3 +1,27 @@
+@keyframes skeleton-loading {
+  0% {
+    background-position: 200% 0;
+  }
+
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+img:not(.loaded) {
+  background: #eee;
+  background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%);
+  background-size: 200% 100%;
+  animation: 1.5s skeleton-loading linear infinite;
+  color: transparent;
+  /* hide broken image text while loading */
+}
+
+img.loaded {
+  background: transparent;
+  animation: none;
+}
+
 img {
   max-width: 100%;
   height: auto;
