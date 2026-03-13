@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "npm-run-all --parallel dev:*",
+    "dev": "tsc && npm-run-all --parallel dev:*",
     "dev:tsc": "tsc -w --preserveWatchOutput",
     "dev:eleventy": "tinacms dev -c \"eleventy --serve\"",
     "build": "tsc && tinacms build && eleventy",
