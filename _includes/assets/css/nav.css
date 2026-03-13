@@ -10,8 +10,8 @@
 }
 
 a:hover {
-    text-decoration: none;
-    color: #101011b8;
+  text-decoration: none;
+  color: #101011b8;
 }
 
 .brand {
@@ -24,5 +24,87 @@ a:hover {
 }
 
 .active {
-    color: black !important; /* important so that hover color is overrided */
+  color: black !important;
+  /* important so that hover color is overrided */
+}
+
+/* Dark Theme Overrides for Navigation */
+:root[data-theme="dark"] .myNav {
+  background-color: #1a1a1a;
+}
+
+:root[data-theme="dark"] .navLink {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+:root[data-theme="dark"] a:hover {
+  color: #fff;
+}
+
+:root[data-theme="dark"] .brand {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+:root[data-theme="dark"] .active {
+  color: #fff !important;
+}
+
+/* Theme Toggle Switch Styles */
+.theme-switch {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 24px;
+  margin: 0;
+}
+
+.theme-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 18px;
+  width: 18px;
+  left: 3px;
+  bottom: 3px;
+  background-color: white;
+}
+
+.theme-switch.has-transition .slider,
+.theme-switch.has-transition .slider:before {
+  transition: .4s;
+}
+
+input:checked+.slider {
+  background-color: #66b0ff;
+}
+
+input:focus+.slider {
+  box-shadow: 0 0 1px #66b0ff;
+}
+
+input:checked+.slider:before {
+  transform: translateX(20px);
+}
+
+.slider.round {
+  border-radius: 24px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
 }

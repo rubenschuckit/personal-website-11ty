@@ -6,10 +6,14 @@ img {
 body {
   font-family: "Manrope", sans-serif !important;
   letter-spacing: 0.03rem;
+  background-color: var(--bg-color, #fff);
+  color: var(--text-color, #212529);
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 main a {
   position: relative;
+  color: var(--link-color, #007bff);
 }
 
 main a:before {
@@ -19,7 +23,7 @@ main a:before {
   height: 1px;
   bottom: 0;
   left: 0;
-  background-color: black;
+  background-color: var(--text-color, black);
   visibility: hidden;
   transition: all 0.3s ease-in-out;
 }
@@ -31,4 +35,34 @@ main a:hover:before {
 
 .no-link-decoration:hover:before {
   visibility: hidden !important;
+}
+
+:root[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #f8f9fa;
+  --link-color: #66b0ff;
+}
+
+/* Base override for any specific inline text elements if needed */
+:root[data-theme="dark"] body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Base override for bootstrap cards */
+:root[data-theme="dark"] .card {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+:root[data-theme="dark"] .text-muted {
+  color: #adb5bd !important;
+}
+
+:root[data-theme="dark"] .social-icon {
+  filter: invert(1);
+}
+
+:root[data-theme="dark"] hr {
+  border-top-color: rgba(255, 255, 255, 0.15);
 }
