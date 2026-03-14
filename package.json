@@ -3,7 +3,7 @@
     "dev": "tsc && npm-run-all --parallel dev:*",
     "dev:tsc": "tsc -w --preserveWatchOutput",
     "dev:eleventy": "tinacms dev -c \"eleventy --serve\"",
-    "build": "tsc && tinacms build && eleventy",
+    "build": "tsc && eleventy",
     "watch": "tsc && tinacms dev -c \"eleventy --watch\"",
     "debug": "DEBUG=* eleventy"
   },
