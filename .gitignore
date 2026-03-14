@@ -5,3 +5,5 @@ package-lock.json
 node_modules
 .env
 .cache
+_includes/assets/js/**/*.js
+_includes/assets/js/**/*.js.map

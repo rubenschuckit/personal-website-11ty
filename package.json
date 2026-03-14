@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "dev": "tinacms dev -c \"eleventy --serve\"",
-    "build": "tinacms build && eleventy",
-    "watch": "tinacms dev -c \"eleventy --watch\"",
+    "dev": "tsc && npm-run-all --parallel dev:*",
+    "dev:tsc": "tsc -w --preserveWatchOutput",
+    "dev:eleventy": "tinacms dev -c \"eleventy --serve\"",
+    "build": "tsc && eleventy",
+    "watch": "tsc && tinacms dev -c \"eleventy --watch\"",
     "debug": "DEBUG=* eleventy"
   },
   "devDependencies": {
@@ -13,7 +15,9 @@
     "luxon": "^3.7.2",
     "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^9.2.0",
-    "markdown-it-attrs": "^4.3.1"
+    "markdown-it-attrs": "^4.3.1",
+    "npm-run-all": "^4.1.5",
+    "typescript": "^5.9.3"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^6.0.4",
